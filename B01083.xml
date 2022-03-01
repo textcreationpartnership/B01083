@@ -1,0 +1,746 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A godly and frutefull sermon, made at Maydestone in the county of Kent the fyrst sonday in Lent, in the presence of the most reuerend father in God Thomas archbishop of Canterbury. &amp;c. / by M. Thomas Cole scholemayster there, againste dyuers erronious opinions of the Anabaptistes and others.</title>
+            <author>Cole, Thomas, d. 1571.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1553</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 96 KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01083</idno>
+            <idno type="STC">STC 5539</idno>
+            <idno type="STC">ESTC S124208</idno>
+            <idno type="EEBO-CITATION">52633120</idno>
+            <idno type="OCLC">ocm 52633120</idno>
+            <idno type="VID">173936</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01083)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173936)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2111:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A godly and frutefull sermon, made at Maydestone in the county of Kent the fyrst sonday in Lent, in the presence of the most reuerend father in God Thomas archbishop of Canterbury. &amp;c. / by M. Thomas Cole scholemayster there, againste dyuers erronious opinions of the Anabaptistes and others.</title>
+                  <author>Cole, Thomas, d. 1571.</author>
+               </titleStmt>
+               <extent>[71] p.   </extent>
+               <publicationStmt>
+                  <publisher>[by Reginalde Wolfe],</publisher>
+                  <pubPlace>Londini, :</pubPlace>
+                  <date>Anno Domini. M. D. LIII. [1553].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Colophon, E₄r, reads: Imprinted at London by Reginalde Wolfe. Cum priuilegio ad imprimendum solum.</note>
+                  <note>Printers' device on E₄r (McK. 118); initial.</note>
+                  <note>Signatures: A-D⁸, E⁴.</note>
+                  <note>Imperfect: D₆ torn with loss of text.</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  16th century.</term>
+               <term>Dissenters, Religious --  England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173936:1"/>
+            <pb facs="tcp:173936:1"/>
+            <p>
+               <hi>A GODLY AND FRVTEFVLL SERMON, MADE</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Maydſtone in the county of Kent the fyrſte ſonday in Lent, in the pre<g ref="char:EOLhyphen"/>ſence of the moſt Reuerend fa<g ref="char:EOLhyphen"/>ther in God <hi>THOMAS</hi> Arch<g ref="char:EOLhyphen"/>biſhop of Canterbury. &amp;c. by M. Thomas Cole ſchole<g ref="char:EOLhyphen"/>mayſter there, againſte dyuers erronious o<g ref="char:EOLhyphen"/>pinions of the A<g ref="char:EOLhyphen"/>nabaptiſtes and others. <g ref="char:leaf">❧</g>
+            </p>
+            <p>
+               <hi>LONDINI, ANNO DOMINI. M. D. LIII.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:173936:2"/>
+            <pb facs="tcp:173936:2"/>
+            <head>
+               <hi>A SERMON MADE AT MAYDSTONE THE FYRT</hi> ſonday in Lente, the yeare of oure Lord, 1552. in the preſence of the moſt reue rend father in God, Thomas Archby<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhop of Canterbury. &amp;c. by M. Thomas Cole ſchoolemaiſter there, agaynſt dyuers errours of the Ana<g ref="char:EOLhyphen"/>baptiſtes and ſuch ſectes where ſoe<g ref="char:EOLhyphen"/>uer they be, as in chriſten religion call theym ſelues Brothers and Syſters, and dyuide theym ſelues from other chriſtian people.</head>
+            <head type="sub">Audite coeli, percipe auribus tuis ô terra, quonia<g ref="char:cmbAbbrStroke">̄</g> Dominus loquutus eſt</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ho dooth not mer<g ref="char:EOLhyphen"/>uayle or counte it a thing very ſtraunge, that a mortall man, of the generation of Adam, conceyued in ſynne, borne in wyc<g ref="char:EOLhyphen"/>kednes, brynge no creatour, but a crea<g ref="char:EOLhyphen"/>ture, yea duſt and aſhes, ſhuld ſo boldly ſpeak vnto al ſtates and degrees of men, comman<g ref="char:EOLhyphen"/>ding
+<pb facs="tcp:173936:3"/> them to heare. Some peraduenture do not only meruayle, but accuſe the Prophet, that he ſhould ſay being but a man, <hi>Audite, quoniam Dominus loquutus eſt.</hi> But deere chriſtians, meruail not, neyther charge you gods elect prophet with any euel, or breache of ciuilitie, leaſt happely in faultyng them, whom god ſendeth vnto you with the worde of reconciliation, ye procure to your ſelues the ſame rebuke, whych our Sauiour Chriſt gaue to the catchyng Phariſeis, namelye,</p>
+            <p>
+               <hi>Quare vos malum cogitatis in cordibus veſtris?</hi> For although Eſay ſpake woordes <note place="margin">
+                  <hi>Math,</hi> 9. <hi>Marc.</hi> 2. <hi>Luc.</hi> 9.</note> of commandyng and of auctoritye, yet hee ſpake theym not of hym ſelfe, neither in hys owne name, but in the name of the lyuynge god, which called him to be his prophet, and made hym a meſſaunger vnto the people, to call them to the obedience of the fayth. Se<g ref="char:EOLhyphen"/>ynge therfore, that almighty God, the lorde of all creatures ſent him to ſpeake vnto the<g ref="char:cmbAbbrStroke">̄</g>, he gaue him power to ſay, <hi>Audite:</hi> and ſeing he ſent him not to ſpeake his owne wordes, but the wordes of God, he alſo gaue hym power to ſaye, <hi>Quoniam Dominus loquutus est.</hi> For as the penne is the inſtrument, that for<g ref="char:EOLhyphen"/>meth the lettre, whereby the mynde of the writer doth appeare vnto them that read it, not through the pen only, but by the writer that vſeth the pen: euen ſo the prophet Eſay,
+<pb facs="tcp:173936:3"/> &amp; al thei that haue y<hi rend="sup">e</hi> miniſtery of the word of god, are but the inſtrume<g ref="char:cmbAbbrStroke">̄</g>ts which god vſeth according to his godly pleaſure, to make his wil to be knowe<g ref="char:cmbAbbrStroke">̄</g> vnto the hearers: Which co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>meth not of the<g ref="char:cmbAbbrStroke">̄</g>ſelues, but of god, which ſpe<g ref="char:EOLhyphen"/>keth in them. Dauid not forgetting that he <note place="margin">
+                  <hi>Pſal.</hi> 45</note> was the inſtrume<g ref="char:cmbAbbrStroke">̄</g>t of god, although called to the dignitie of a prophet, vnable of himſelfe to ſet forth the ineſtimable riches of Gods wiſdom, w<hi rend="sup">t</hi>out the aide of his holy ſpirit, ſaid <hi>Lingua mea calam us ſcribae, velociter ſcribentis.</hi> S. Paule wel reme<g ref="char:cmbAbbrStroke">̄</g>bring that y<hi rend="sup">•</hi> miniſtratio<g ref="char:cmbAbbrStroke">̄</g> of y<hi rend="sup">e</hi> word was honorable, whereof God had made him a choſe<g ref="char:cmbAbbrStroke">̄</g> inſtrument, &amp; on the other ſide, not forgetful howe lytle he had deſerued at y<hi rend="sup">e</hi> lords hands ſuch a promocion, whan he heard y<hi rend="sup">e</hi> people of Corinth fallen into ſuch a phrenetical contention, y<hi rend="sup">t</hi> thei wold (as me<g ref="char:cmbAbbrStroke">̄</g> do now a daies) either co<g ref="char:cmbAbbrStroke">̄</g>mende or lothe y<hi rend="sup">e</hi> word for the inſtrument ſake, bicauſe he wold not haue the<g ref="char:cmbAbbrStroke">̄</g> to regard his perſon, but almighty God y<hi rend="sup">t</hi> ſpake in him: Therfore to declare him ſelf to be but an inſtrume<g ref="char:cmbAbbrStroke">̄</g>t to ſet forth y<hi rend="sup">•</hi> glory of God, he ſayd: <hi>Quid igitur eſt Paulus? Quis <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<g ref="char:EOLunhyphen"/>tem</hi> 
+               <note place="margin">1 <hi>Cor.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </note> 
+               <hi>Apollo? niſi miniſtri per quos credidiſtis, et ut cui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> dominus dedit, Ego plantaui, Apollo r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>gauit, ſed Deus deditincrementu<g ref="char:cmbAbbrStroke">̄</g>. Ita<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> qui plantat est aliquid, ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> qui rigat, ſed qui dat in<g ref="char:EOLhyphen"/>crementum Deus.</hi> Eſay vpo<g ref="char:cmbAbbrStroke">̄</g> like conſideracio<g ref="char:cmbAbbrStroke">̄</g> entendinge to drawe the Iſraelites from
+<pb facs="tcp:173936:4"/> the deceauable affections of fleſh and bloud vnto the worthy receiuyng and reuerent em<g ref="char:EOLhyphen"/>braſyng of the woord of lyfe, that they ſhuld not thynke on the perſon, but on the Lorde that ſpake in him, ſayed: <hi>Audite coeli, percipe auribus tuis ô terra, quoniam Dominus loquutus eſt.</hi> The lyke mynde ought to be at this daye in all them that either preache or heare the woord of the Lord, that the preachers may acknowledge themſelues to bee but inſtru<g ref="char:EOLhyphen"/>ments, and the hearers to ſeeke nothyng in them, but god, ſpeakyng in them the wordes of eternall lyfe. Now therfore that almighty God ſpeaketh by his inſtrumentes, the true preachers of his word, thorow the operation of his holy ſpirit, which in times paſt ſpake immediately from himſelf, by the patriarkes and prophetes to the world: Let vs giue eare with diligence that we may vnderſtand his heauenly mynd, and beware that we deſpiſe not, neglect and abandon this high treaſure of the wiſedome of god, the word of faith, al<g ref="char:EOLhyphen"/>though it ſeeme to come from a baſe &amp; poore inſtrument, but hartely receiue it, ioyfully ac<g ref="char:EOLhyphen"/>cept it, obediently folow it, and faithfully per<g ref="char:EOLunhyphen"/>ſiſt in it to the ende, that the may reape with great comfort thie promiſe of God, <hi>Qui per<g ref="char:EOLhyphen"/>ſeue<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> auerit vſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> in finem, hic ſaluus erit.</hi> For <note place="margin">
+                  <hi>Math.</hi> 24. <hi>Mat.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> without doubt god wylleth his word ſpoken by thoſe who<g ref="char:cmbAbbrStroke">̄</g> he choſeth to this ſacred func<g ref="char:EOLhyphen"/>tion,
+<pb facs="tcp:173936:4"/> to be receiued with lyke worthynes and eſtimacion, euen as though hee ſpake it him ſelf. And therfore he ſayth: <hi>Qui uos audit, me</hi> 
+               <note place="margin">
+                  <hi>Luc.</hi> 10. <hi>Ioan.</hi> 14. <hi>Marc.</hi> 6. <hi>Math.</hi> 10.</note> 
+               <hi>audit. qui uos ſpernit me ſpernit.</hi> As the mouth of the kinges embaſſadour is (for the time he ſpeaketh the woordes of the kyng) the verye mouthe of the kynge, ſo the mouth of the preacher, ſpeakyng ſyncerely the woorde of God, is y<hi rend="sup">e</hi> mouth of god for the time he prea<g ref="char:EOLhyphen"/>cheth. And therfore the Prophets wha<g ref="char:cmbAbbrStroke">̄</g> they had ſpoken to the people, vnto whome they were ſent, the mynd and woord of God, they for the moſte parte concluded their matters with theſe wordes, ſaying: <hi>Quoniam os</hi> 
+               <note place="margin">
+                  <hi>Eſa.</hi> 1.</note> 
+               <hi>Domini loquutum eſt.</hi> Wherfore as they that deſpiſe the kinges emdaſſadour, lytle regard or eſteme the kyng. ſo lykewiſe they that de<g ref="char:EOLhyphen"/>ſpiſe the true preachers of the worde of god as much as in them lyeth, deſpiſe god. Now derely beloued chriſtia<g ref="char:cmbAbbrStroke">̄</g>s, although Eſay ſpea<g ref="char:EOLunhyphen"/>keth not vnto you, but a ſynful man, one vn<g ref="char:EOLhyphen"/>woorthy to beare Eſayes bookes after hym, either for the dexteritie of life that was in hym, eyther for the deepe knowledge in the myſteries of God, yet bycauſe it hath pleaſed oure heauenlye father to call me at this tyme to this place, truely wythout couloure to ſpeake hys truth, and nothing but hys truthe, I ſhall defyre yow in the name of God to dee dylygent hearers.</p>
+            <pb facs="tcp:173936:5"/>
+            <p> Wherefore hopyng to haue you lyke at<g ref="char:EOLhyphen"/>tentiue nowe, as the true worſhippers of God were in Eſayes time, I vſe the ſame introduction to my matter as Eſay did, ſai<g ref="char:EOLhyphen"/>ynge vnto you, as he didde vnto them: <hi>Audite coeli, percipe auribus tuis ô terra, quonia<g ref="char:cmbAbbrStroke">̄</g> Dominus loquutus eſt:</hi> Hear O heauens, harke<g ref="char:cmbAbbrStroke">̄</g> O earth<g ref="char:punc">▪</g> hear ye that be riche, and ye that be poore: ye that be honorable, &amp; ye that be mi<g ref="char:EOLhyphen"/>ſerable: ye bothe good and badde, <hi>Audite, Audite.</hi> But peraduenture ſo me man muſeth what I do meane, thus earneſtly to wyl you to heare, declaryng nothing what you ſhuld heare, <hi>Cum audire non poſſitis ſine predicante:</hi> If here were no manne to ſpeake vnto, then <note place="margin">
+                  <hi>Rom.</hi> 10</note> although I ſhould ſaye <hi>audite,</hi> yet mighte I choſe whether I wold ſpeak furder, bicauſe it is wrytten, <hi>Auditus vbi non eſt, non effundas</hi> 
+               <note place="margin">
+                  <hi>Eccl.</hi> 32</note> 
+               <hi>ſermonem.</hi> I can make no ſuch excuſe, ſeing here is ſo goodly an audience, ſo learned an auditory, ſo diligently bent to hear that that ſhalbe ſpoken, but am compelled for conſci<g ref="char:EOLhyphen"/>ence ſake to ſpeak that that the lord wylleth to be ſpoke<g ref="char:cmbAbbrStroke">̄</g> by me: (wherfore) as it is written <hi>Qui habet aures ad audiendum, audiat.</hi> Speake on therfore, what would you that we ſhoulde <note place="margin">
+                  <hi>Mar.</hi> 4.</note> heare? Verely ye ſhall heare the wholſome, comfortable and ſweet exhortacion, yea ra<g ref="char:EOLhyphen"/>ther the humble ſupplicacion that the holye Apoſtle S. Paul made vnto the Corinthia<g ref="char:cmbAbbrStroke">̄</g>s
+<pb facs="tcp:173936:5"/> But I wold not haue you to heare for your belies ſake, or to ſatiſfy the wanton luſtes of your fleſhe, as dyd the Epicures: neither to tryppe the preachers in their wordes, as dyd the Phariſeis or curſed Herodians: leaſt the Seyng plage, I wold ſay, the Synne plage of. Aegypte fall vppon you, as it dyd vppon theym for theyr ſo wylfulle enterpriſe: <hi>Auditu audietis &amp; non intelligebitis, &amp; vide<g ref="char:cmbAbbrStroke">̄</g>tes</hi> 
+               <note place="margin">
+                  <hi>Math.</hi> 13. <hi>Eſa.</hi> 6. <hi>Marc.</hi> 4. <hi>Act.</hi> 18.</note> 
+               <hi>uidebitis, &amp; non uidebitis.</hi> But I wold wyſhe you ſo to heare, that ye myght learn. ſo to at<g ref="char:EOLhyphen"/>tend, that ye myght comprehende your du<g ref="char:EOLhyphen"/>tie towardes our merciful god. To this end do they heare that are either wyſe, or religi<g ref="char:EOLhyphen"/>ous: As Salomon witneſſeth: <hi>Auris ſapientu<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> 
+               <note place="margin">
+                  <hi>Pro.</hi> 18.</note> 
+               <hi>quaerit doctrinam, non calumnia<g ref="char:cmbAbbrStroke">̄</g>,</hi> as thoſe that be vndiſcrete do, to who<g ref="char:cmbAbbrStroke">̄</g> to ſpeke of knowlege it auaileth not, bycauſe they refuſe to be ler<g ref="char:EOLhyphen"/>ned therin: vnto whom Salomo<g ref="char:cmbAbbrStroke">̄</g> forbiddeth to ſpeake, ſaying: <hi>In auribus inſipientiu<g ref="char:cmbAbbrStroke">̄</g> ne lo<g ref="char:EOLhyphen"/>quaris, deſpicient enim doctrina<g ref="char:cmbAbbrStroke">̄</g> eloquij tui.</hi> ho<g ref="char:EOLhyphen"/>pyng <note place="margin">
+                  <hi>Pro.</hi> 23.</note> therfore that ye ſeke to knowe with the wiſe, &amp; not to carp w<hi rend="sup">t</hi> the foliſh, that ye ſeke to learn &amp; not to lurch, to ſauor the truth, &amp; not to ſnare them y<hi rend="sup">•</hi> ſeke the proſperitie of your ſoules. I am bolde at this inſtant through the permiſſion of god, to open my mouthe in the truthe. Beyng well aſſured, y<hi rend="sup">t</hi> if ye di<g ref="char:EOLhyphen"/>ſceaue me herein, yet can you not deceyue
+<pb facs="tcp:173936:6"/> the lorde who ſeeth clerely in the darkeneſſe, <note place="margin">
+                  <hi>Gen.</hi> 11. <hi>&amp;</hi> 17. <hi>Pſal.</hi> 7. <hi>Apo.</hi> 2.</note> who knoweth the very ſecretes of all mens hertes, vnto whom no thyng is hyd, but kno<g ref="char:EOLunhyphen"/>wen, as it is written: <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mnia nuda ſunt illi<g ref="char:EOLhyphen"/>us oculis, de quo agimus,</hi> who can not be begi<g ref="char:EOLhyphen"/>led, <note place="margin">
+                  <hi>Pſal.</hi> 93.</note> bycauſe he made man, and all that is in man. As the prophete ſaythe, Shall not he that made the eare, heare, or he that made the eie, ſhall not he ſee, and he that made the hert ſhall not he vnderſtand and knowe? yea ve<g ref="char:EOLhyphen"/>rely. Wherfore without all hypocriſy bowe your eares to the Lord, and obediently lerne to ſerue hym, that your ſoule maye lyue. As the Lorde hym ſelfe ſayth: <hi>Aurem ueſtram in<g ref="char:EOLhyphen"/>clinate,</hi> 
+               <note place="margin">
+                  <hi>Eſa.</hi> 55.</note> 
+               <hi>&amp; uenite ad me, audite, &amp; uiuet anima ueſtra.</hi> To this end ſainct Paule made this ſupplication vnto the Corinthia<g ref="char:cmbAbbrStroke">̄</g>s, that they myght lyue. Therfore to declare how care<g ref="char:EOLhyphen"/>full he was ouer theyr lyfe, and fearefull leſt thorow theyr owne foly they ſhoulde fall to death, he ſayde.</p>
+            <p>
+               <hi>Quin adiuuantes obſecramus, ne in uacuum</hi> 
+               <note place="margin">2, <hi>Cor.</hi> 6.</note> 
+               <hi>gratia<g ref="char:cmbAbbrStroke">̄</g> dei receperitis. Dicit enim, in te<g ref="char:cmbAbbrStroke">̄</g>pore acce<g ref="char:EOLhyphen"/>pto exaudiuite, &amp; in die ſalutis ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>curri tibi. Ec<g ref="char:EOLunhyphen"/>ce nunc tempus acceptum, ecce nunc dies ſalutis. Ne quam demus offenſionem, ne reprehendatur miniſterium noſtrum, ſed in omnibus commende<g ref="char:EOLhyphen"/>mus noſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pſos vt Dei miniſtri, &amp;c.</hi>
+            </p>
+            <p>After this humble and louely maner, dyd
+<pb facs="tcp:173936:6"/> ſaynt Paule exhort the Corinthians, which were citiſyns of the head citie of Achaia, of whom they had theyr names, and were cal<g ref="char:EOLhyphen"/>led Corinthians, wyllyng them, as a tender father dooth his beloued chyldern, that they ſhuld not receyue the abundant grace of god, mynyſtred vnto them by his preachynge, in vayne. Wherfore he ſayth, We as helpers ex<g ref="char:EOLunhyphen"/>horte <note place="margin">
+                  <hi>Rom.</hi> 11. 1. <hi>Cor.</hi> 8. <hi>Eph.</hi> 1. 2. <hi>Cor.</hi> 3. <hi>Apoc.</hi> 17.</note> you. not that he ment by thoſe wordes, to helpe god, which needeth not the helpe of men, bycauſe he is a perfect God, holy, iuſt and good, vnto whom nothing can be added nor any thyng diminiſhed, but that he holpe the Corinthians in this that he ſlacked not the miniſtration of the worde toward them, neyther behaued hym ſelfe vnfaythfully to<g ref="char:EOLhyphen"/>wards God, by whom he was choſen to be an inſtrumente to beare his name vnto the Gentiles. No neither vnkyndly toward the Corinthians, whom he had conuerted vnto the truthe from their gentilitie and vngod<g ref="char:EOLhyphen"/>lynes. For as it appeareth by auncient and godly wryters, he lyued among the Corin<g ref="char:EOLhyphen"/>thians one hole yere and ſixe monethes: in the which he laboured with all diligent prea<g ref="char:EOLunhyphen"/>chynge, to bryng theym from all lettes that hyndered Chriſtes religion, vnto the obedi<g ref="char:EOLhyphen"/>ence of the fayth, wherwith, before his com<g ref="char:EOLhyphen"/>myng, they were not a lyttell infected.</p>
+            <p>What miſchief was there to be ſene amo<g ref="char:cmbAbbrStroke">̄</g>g
+<pb facs="tcp:173936:7"/> any people, that coulde not be bothe ſene and founde among the Corinthians before his prechyng? Were they not deuout ydolaters, execrable blaſphemers, vnmercifull oppreſ<g ref="char:EOLhyphen"/>ſers, violent exactours, beaſtly aduoutters, full of enuy, pride, dronkennes, gluttonye, ſtrife, ſedition and vnſpeakeable villanye a<g ref="char:EOLhyphen"/>gaynſt God and his dere ſon Ieſus Chriſt? Dyd they not through ignorance, the chiefe enemy to knowledge, abuſe all the good gif<g ref="char:EOLhyphen"/>tes of god? But the Lorde entendyng to ſet forth mercy towardes them, lyke as he hath doon to all the hole worlde, dyd moue ſaynte Paule by his holy ſpirite to go preache vnto them the glad tydynges of ſaluation, &amp; call theim to repentaunce, that they myght by grace through faith in Ieſus Chriſt, obtein the crowne of immortalitie and euerlaſtyng lyfe. whyche thynge, whan he lyued famili<g ref="char:EOLhyphen"/>arly among theym, thorough the ſpirite of grace in preachyng, he performed. Where<g ref="char:EOLhyphen"/>fore by trewe preachyng he layd a ſure foun<g ref="char:EOLhyphen"/>dation among them, <hi>vt ſapiens archytectus,</hi> 
+               <note place="margin">1. <hi>Cor.</hi> 3.</note> namely the Lord Ieſus, y<hi rend="sup">•</hi> they beyng buylt vpon hym, myght grow to an holy temple in the Lorde. Howbeit the dyuel, the ancie<g ref="char:cmbAbbrStroke">̄</g>t enmy of God, endeuouryng to deſtroy that that God worketh, labouryng to euert that that God buyldeth, and to roote vp that that God planteth, bycauſe he may not a<g ref="char:EOLhyphen"/>byde
+<pb facs="tcp:173936:7"/> the creatures of God to tourne from ſynne, and faythefully to ſerue their God. Therfore ſoone after ſaynct Paules depar<g ref="char:EOLhyphen"/>ture from Corynth, the dyuell (woorkyng in the children of vnbelefe) ſtyrred the Corin<g ref="char:EOLhyphen"/>thians to theyr old vomite agayn, that they myght peryſhe. And to bryng this matter to paſſe, he laboured to cauſe the heathen peo<g ref="char:EOLhyphen"/>ple that had concurſe thyther, not onely by theyr heathenyſhe manners, to corrupt the people, but alſo thorough falſe Apoſtles, to brynge theym frome the truthe to paganry, from the goſpell to the lawe, from the righ<g ref="char:EOLhyphen"/>tuouſnes of Chriſte, to theyr owne ryghtu<g ref="char:EOLhyphen"/>ouſnes, and from the true worſhyppynge of god, to adore their owne inuention, that the knowledge of God myght cleane bee rooted out amonge the people, Saynct Paule be<g ref="char:EOLhyphen"/>yng moued with godly zeale ouer them, and lothe to ſee them deſolate, whom god of his fre mercy for Chriſtes ſake, through his pre<g ref="char:EOLunhyphen"/>ching had co<g ref="char:cmbAbbrStroke">̄</g>uerted vnto the truth, althogh he had moued theym with one epiſtle to be<g ref="char:EOLhyphen"/>ware of ſuche deceyuers, yet ceaſſed he not with an other (ſignifyeng his carefulnes) to exhort theim that they ſhuld not receiue the grace of god in vayn, neyther ſynne againſt ſo mercyfull a God. Is there any thynge that maye deſerue more commendation, thanne in the tyme of punyſſhemente,
+<pb facs="tcp:173936:8"/> to forgyue? and whan ſentence of deathe is pronounced, to pardon? This dyd our hea<g ref="char:EOLhyphen"/>uenly father for them, and not for theim a<g ref="char:EOLhyphen"/>lone, but alſo for vs, ſendyng his deere and only begotten ſonne to be a raunſom for our ſynnes, in whom all that beleue, haue remiſ<g ref="char:EOLhyphen"/>ſion of theyr ſynne, and lyfe euerlaſtyng. He alone is our Redemption and Iuſtification. In hym only are our ſynne purged and done <note place="margin">
+                  <hi>Rom.</hi> 4. <hi>Rom.</hi> 5. 1. <hi>Ioan.</hi> 1. 1. <hi>Pet.</hi> 1. 2. <hi>Tim.</hi> 2. <hi>Tit.</hi> 3. <hi>Gal.</hi> 3. <hi>Eph.</hi> 2.</note> away. He is our reconciliation &amp; mercy ſeate in whom God is pacified toward vs, conte<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ted towardes vs, agreed with vs to take vs for his ſonnes. Therfore it is writen, <hi>Chriſtus pax nostra:</hi> And again, <hi>Abluti ſumus, ſanctificati ſumus, iustificati ſumus per nome<g ref="char:cmbAbbrStroke">̄</g> Ieſu Chriſti, &amp;</hi> 
+               <note place="margin">1. <hi>Cor.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Eph.</hi> 1.</note> 
+               <hi>per ſpiritu<g ref="char:cmbAbbrStroke">̄</g> dei noſtri: Per quem habemus redemp<g ref="char:EOLhyphen"/>tionem, per ſanguinem ipſius, remiſſione<g ref="char:cmbAbbrStroke">̄</g> pecca<g ref="char:EOLhyphen"/>torum, de qua ubertim nobis impartiuit, in omni ſapientia &amp; prudentia, patefacto nobis arcano voluntatis ſuae iuxta beneplacitum ſuum, quod propoſuerat in ſeipſo &amp;c.</hi> This worde of re<g ref="char:EOLhyphen"/>conciliation dyd ſaincte Paule vnto the Co<g ref="char:EOLhyphen"/>rinthians, wherby the grace of god was ma<g ref="char:EOLunhyphen"/>nifeſted vnto theim in Chriſt Ieſu, for the re<g ref="char:EOLunhyphen"/>miſſion of theyr ſynnes, wyllynge them not to be vnthankfull receyuers therof, neyther ſuche as by fauourynge theyr olde ſynnes, ſhulde neglect the benefit of theyr ſaluation, but bryng foorth fruite agreable to the ſame
+<pb facs="tcp:173936:8"/> goſpell, which he had ſo long tyme preached amo<g ref="char:cmbAbbrStroke">̄</g>g them, and not to giue eare to the ſub<g ref="char:EOLhyphen"/>tyll ſophiſtry of the deceauer. For well knew ſaynt Paule the damnable policie of the dy<g ref="char:EOLhyphen"/>uell, that he cared not though the word were muche preached, ſo that he myght bryng to paſſe to deſtroye in the people the fruites of the goſpell. Wherfore he exhorted them, not to receyue the grace of God in vayne, but to be faythfull folowers of Chriſt, and lyue af<g ref="char:EOLhyphen"/>ter the goſpell. Bycauſe the grace of God <note place="margin">
+                  <hi>Tit.</hi> 2.</note> hath apeared, teachyng vs to deny vngodly<g ref="char:EOLhyphen"/>nes and worldely luſte, and to lyue iuſtly, ſo<g ref="char:EOLhyphen"/>brely, and rightuouſly in this preſent world, lookyng for that bleſſed hope and apearyng of our Lorde Ieſus &amp;c. But haue not we as much nede at this tyme to learne this leſſon as had the Corinthians? Hath not almigh<g ref="char:EOLunhyphen"/>ty god ſhewed as muche mercye vnto vs as he dyd vnto them, or rather more? God ſent to the Corinthians one preacher to conuert them to the truthe: God hath ſent to vs ma<g ref="char:EOLunhyphen"/>ny. The worde was preached by one whole yere and a half to the Corinthians: It hath bene preached many yeares vnto vs. God taught the Corinthians the trewe worſhip<g ref="char:EOLhyphen"/>pyng of god, he alſo hath taught vs to wor<g ref="char:EOLhyphen"/>ſhyp god truly. God remoued from the Co<g ref="char:EOLhyphen"/>rinthians by ſyncere preachyng, that whych hyndred godly religion: The ſame God hath
+<pb facs="tcp:173936:9"/> alſo remoued frome vs that that hyndered godly religion. But as the goodnes of God hath bene more abundant to vs than to the Corinthians, ſo haue our ſynnes farre exce<g ref="char:EOLhyphen"/>ded the ſynnes of the Corinthians: wherby if Paule ſeared that they woulde take the grace of God in vayne, muche more it is to be ſeared that we receiue it not in vayn. For the ſame dyuell that laboured to make the Corinthians enemies to grace, at this day ceaſſeth not to make vs the ſame, as ſaynet Peter ſayth: <hi>Diabolus aduerſarius noster tan<g ref="char:EOLhyphen"/>q<g ref="char:cmbAbbrStroke">̄</g>leo</hi> 
+               <note place="margin">2. <hi>Pet.</hi> 5.</note> 
+               <hi>rugiens circuit, quaerens quem deuoret:</hi> He is not ydell, but ſtyll laboureth to roote out of mans hart the feare of god and knowlege of the truthe, that they myght folowe hym lyke captiues, ſnared in the bandes of darke<g ref="char:EOLunhyphen"/>nes to pardicion: For as ſaynt Iohn ſaith, <hi>Diabolus peccat ab initio,</hi> and therfore ſtudy<g ref="char:EOLhyphen"/>eth <note place="margin">1. <hi>Ioan.</hi> 3.</note> to make all men to haue pleaſure in ſyn, that they myght enioy his inheritance, the lake that burneth with fyre and brymſtone. As God hathe pleaſure in lyfe, ſo hath he pleaſure in murderyng and kyllyng the ſou<g ref="char:EOLhyphen"/>les of me<g ref="char:cmbAbbrStroke">̄</g>. Not without cauſe therfore hath our ſauioure Chriſte thus ſpoken of hym: <hi>Diabolus homicida erat ab initio, &amp; in veritate non ſtetit, quia non eſt veritas in eo.</hi> By errors <note place="margin">
+                  <hi>Ioan.</hi> 8.</note> therfore and falſe ſuggeſtions he goth about to make men alwayes diſobedient and vn<g ref="char:EOLhyphen"/>faithfull
+<pb facs="tcp:173936:9"/> againſt god. To atchiue this hys deteſtable purpoſe, he putteth into their har<g ref="char:EOLhyphen"/>tes ſtrong deluſions, that they ſhould beleeue lies, and attempt thynges woorthy of con<g ref="char:EOLhyphen"/>demnacion. As he did into Iudas heart, as ſayth S. Iohn: <hi>Diabolus immiſit in cor Iudae</hi> 
+               <note place="margin">
+                  <hi>Ioan.</hi> 13</note> 
+               <hi>ve proderet Chriſtum.</hi> Many waies the diuel did ſeke to bring the Corinthians into gods diſpleaſure, after they had receaued the goſ<g ref="char:EOLhyphen"/>pel, but chiefly either in corrupting the<g ref="char:cmbAbbrStroke">̄</g>ſelues with a conuerſation moſte contrary to their profeſſion, eyther by ſteryng theym by falſe apoſtels <hi>In Iudaiſmum, ut exciderent à gratia.</hi> 
+               <note place="margin">
+                  <hi>Gala.</hi> 5.</note> Euen ſo he doth labour diuerſly and manye waies to bring vs into Goddes diſpleaſure, but principally by two waies, wherin he ſpe<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>deth no ſmall labour in theſe daies, not alto<g ref="char:EOLhyphen"/>gyther without bringing his curſed purpoſe to paſſe. Thone way is by ſpeaking wel, and lyuing abhominably: thother is by liuinge well (as farre forth as men can iudge) and ſpeakyng euell, that is, teaching or maintay<g ref="char:EOLhyphen"/>nyng vnſure doctrine. By one of theſe twoo wayes the dyuell at this daye deceiueth the ſoules of men. If thone ſerueth not, he doth attempt with the other. To ſpeake well and lyue carnally, it diſpleaſeth him very lyttle: but to lyue well, that is not for the dyuels dyet: nothyng is ſo contrary to his peſtilent tooth, it is to hote for him to ſwalow vp ſuch
+<pb facs="tcp:173936:10"/> a morſell, onleſſe he play the cooke, and take in hand to ſeaſon the matter hymſelf. That that is moſt difficyle to bryng to paſſe, that doth the dyuell fyrſt enterpriſe, moſt hardlye aſſault, moſt buſely ſeeketh to conquer, and beyng conquerer therof, more reioyſeth than ouer that y<hi rend="sup">•</hi> is but ſmall maiſtery to wynne. The dyuell doth thynke it eaſyer to continue an hundreth well ſpeakers in a fylthy con<g ref="char:EOLhyphen"/>uerſation, than to ouercome one man that exerciſeth himſelf in vertue and godlyneſſe. Firſt therfore he byddeth battail to the ver<g ref="char:EOLhyphen"/>tuous man, as to his moſt aduerſary, whoſe caſtell he knoweth to bee ſo ſtronge and vn<g ref="char:EOLhyphen"/>ſaultable, that without diligent beatynge of his diueliſh wittes, he can by no meanes win it. Stronge is that munition whoſe walles are braſſe, but ſtronger is that ſoule whoſe walle is the word of God: inuincible is that forte, whoſe rampyres are ſtrongly couched to the walles, and of great quantitye, but more inuincible is that ſoule, whoſe faith is ſuerly lynked to the woorde of God, and in great quantity expreſſeth the frutes thereof thorowe vndefyled charitie. yet is there no baſtylion ſo ſtronge, but by ſome meanes it may be ouercome. For that that force often myſſeth, that doothe prodition brynge to paſſe: and that that canne not bee doone by other, is often thorowe pollicy doune by oure
+<pb facs="tcp:173936:10"/> ſelues. Of this the ſubtyle Satanas is not ignoraunte, whoſe practiſe it hathe beene frome the beginnynge agaynſt mans ſoule, and wyll bee (I feare mee) vnto the ende. We haue exaumple in Scripture, that ſomme tyme by force of other hee cau<g ref="char:EOLhyphen"/>ſed menne to ſynne, and ſometyme he pro<g ref="char:EOLhyphen"/>uoked theymſelues to be cauſe of their owne myſchief.</p>
+            <p>Whyleſt Moyſes was in the Mounte wyth God, the dyuell knewe that the gouernmente of the people hanged vppon Aarons ſhoulders, wherefore thoroughe the ignoraunce of God, hee ſtyrred vppe the heartes of the Iſraelytes, to cauſe Aaron to make theym a molten Calfe af<g ref="char:EOLhyphen"/>ter <note place="margin">
+                  <hi>Exo.</hi> 32</note> the manner of Egypte. Thus by force hee cauſed Aaron to bee their ymage ma<g ref="char:EOLhyphen"/>ker, contrarye to Goddes wyll.</p>
+            <p>But where thys feate ſerueth not, hee occupieth the other, namelye to make men betraye theim ſelues. What needeth me to rehearſe the good Kynge Ezechias, whome the dyuell ſo myghtilye aſſaulted <note place="margin">4 <hi>Reg.</hi> 30.</note> thorowe his cruell inſtrumentes, the capi<g ref="char:EOLhyphen"/>tayn of Sennacherib kyng of Aſſyria, temp<g ref="char:EOLhyphen"/>ting him with outragious blaſphemy agai<g ref="char:cmbAbbrStroke">̄</g>ſt god, to giue ouer his heart with the people thorowe incredulitye, into the handes of the king of Aſſyria? Yet could not the dyuell by
+<pb facs="tcp:173936:11"/> theſe his miniſters ouercome good Ezechias but the more thei proudly bragged, the more <note place="margin">4 <hi>Reg.</hi> 20,</note> Ezechias humbled himſelfe. The more they callyd to the people, fearyng them with the name of the kyng of Aſſyria, with his geſtes and marciall feates to tourne their heartes from their kyng (that kyng and people may fall into his hande) ſo muche the more good kynge Ezechias called vnto God in fer<g ref="char:EOLhyphen"/>uent prayer, to be defended from Gods ene<g ref="char:EOLhyphen"/>mye, &amp; the enemye of his people, the kyng of Aſſyria. And god of his free mercy heard his prayer, ſtrengthened the peoples hearts, and delyuered Ieruſalem from the ſpoyle. O vi<g ref="char:EOLhyphen"/>ctory of Faith. Sathan therfore perceiuing that by this waies he could not preuayle a<g ref="char:EOLhyphen"/>gaynſt Ezechias, whoſe munition was ſo ſtrong, thorow Ieſu Chriſte, he wente an o<g ref="char:EOLhyphen"/>ther way to woorke, namely by prodicion to cauſe him to betray himſelf, that hee myght by ſom mean cauſe him to offend. After that god had giuen him peace, and deſtroyed the hoſte of Aſſyria, the kynge of Babylon ſente <note place="margin">2 <hi>Par.</hi> 22,</note> guiftes to Ezechias. The dyuell therwithall made him to forget his humilitie, and thruſt into his heart opinion of himſelf, whereby he dydde not onely reioyſe that ſo famous a kyng ſhuld ſeeke friendſhip at his handes by guiftes, but alſo to oſtentate his ryches and power, hee ſhewed the meſſangers hys trea<g ref="char:EOLhyphen"/>ſure
+<pb facs="tcp:173936:11"/> houſe, for the which the Prophete was ſent to rebuke him: &amp; he repented. This hath been his fetche of olde (as we here ſe) &amp; this doth he practiſe nowe at this daye, againſte thoſe that couette to leade a vertuous life, whoſe fall is his only ioy, becauſe he is a de<g ref="char:EOLhyphen"/>uourer. Therfore where he perceyueth anye that haue pleaſure in godlynes, and to walk in the orcharde of Gods eternal woorde, by whoſe pleaſaunt ſauours their ſoules might be conſolated, to infect thoſe is his whole in<g ref="char:EOLunhyphen"/>duſtrye, which he can by no meanes doo, but by makynge theim receiue the grace of God in vaine. Seyng then that hee can not cor<g ref="char:EOLhyphen"/>rupt them with groſſe ſynnes, which thorow cuſtome and exerciſe of vertu do continually watche that they may eſcape them, he deſy<g ref="char:EOLhyphen"/>reth to corrupt them therin, wherin they leſt ſuſpect to fall, namely in doctrine, and that bycauſe he ſeeth them greedy of knowledge, and of the ſweete ſauour of the truth.</p>
+            <p>Therefore he gathereth togither a great heape of noyſome floures, which are beauti<g ref="char:EOLhyphen"/>full to the eye, and ſeme for their gloſſe and coulour to haue growen in the orcharde of the Lorde, yet is their ſtyncke deathly and peſtiferous to theym, that obſtinately delyte in theyr ſauoure, and declareth theym not to be of the orchyarde of God, but of the contagious palude of hell. Thoſe hee ſtra<g ref="char:EOLhyphen"/>weth
+<pb facs="tcp:173936:12"/> before the godly lyuer, that by their yll ſauour he may be an euell ſpeaker, and ſo receiue the grace of God in vayne. For as good ſauour is comfortable to the body, and a preſeruer of his health, ſo is ſounde doc<g ref="char:EOLhyphen"/>trine the preſeruatiue of the ſoule. As it is written: <hi>Verba quae ego loquor, ſpiritus &amp; vi<g ref="char:EOLhyphen"/>ta ſunt.</hi> 
+               <note place="margin">
+                  <hi>Ioh.</hi> 6,</note> But as nothynge ſoeuer corrupteth the body, than ſtynkyng ſauour and impure ayre: ſo nothynge ſoeuer kylleth the ſoule, than impure doctrine. As it is wrytten: <hi>Erratis, quia neſcitis ſcripturas.</hi> Seing that the <note place="margin">
+                  <hi>Math.</hi> 22</note> dyuell ſtraweth ſuch flowers before good ly<g ref="char:EOLhyphen"/>ners, prouokyng them by their couloure to poyſon them ſelf with their ſauour, charitye willeth that ye declare them, leaſt happelye anye man thorow ignoraunce ſhoulde ſmell there vnto, and ſo receiue the grace of God in vaine. Geue eare therefore, and yee ſhall perceiue theſe flattering floures of the dyuell wherwith he laboureth to deceyne, and bee<g ref="char:EOLhyphen"/>ware of them.</p>
+            <p>Fyrſte, That all menne bee ſo ſaued, that none at length ſhalbe dampned.</p>
+            <p>This floure ſeemeth to haue a goodlye colour, &amp; the dyuell by the deceitfull beautye thereof, entiſeth ſome to put it to their noſe, that with ſmellyng therto, their ſouls might be fylled with blyndnes and errour. For it
+<pb facs="tcp:173936:12"/> ſeemeth to be buylt vpon the mercy of God, but ſo, that vtterly it deſtroyeth his iuſtyce, breedeth in manne a falſe ſecuritie, cleane rooteth oute of hys hearte the feare of God and obedience to hys woorde: wherefore it is as Cycute, and mortifyeth the ſoule. For althoughe God bee mercifull (as hee is in deede) by the which he wylleth <note place="margin">
+                  <hi>Eze.</hi> 18.</note> not the death of a ſynner, <hi>Sed magis vt viuat &amp; conuertatur,</hi> yet is hee alſo iuſte, by the whiche hee condemneth the vnbeleuers and impenitente. Therefore it is wrytten: <note place="margin">
+                  <hi>Eccl.</hi> 5. <hi>Eccl.</hi> 19 <hi>Ge.</hi> 6 <hi>&amp;</hi> 19 <hi>Nume,</hi> 14<g ref="char:punc">▪</g>
+               </note>
+            </p>
+            <p>
+               <hi>Ne dica<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Miſeratio Domini magna eſt, mul<g ref="char:EOLunhyphen"/>titudis peccatorum meorum miſerabitur. Miſe<g ref="char:EOLhyphen"/>ricordia &amp; ira abillo cito proximant, &amp; in pec<g ref="char:EOLhyphen"/>catores reſpicit ira illius: Non tardes conuerti ad Dominu<g ref="char:cmbAbbrStroke">̄</g>, &amp; ne differas de die in diem. Subito eni<g ref="char:cmbAbbrStroke">̄</g> venitira illius, &amp; in die vindictae diſperdet &amp;c.</hi> The worde of God therfore dooth declare God to bee bothe iuſte and mercifull, and that hys mercye deſtroyeth not hys iuſtice, neyther his iuſtice diminiſheth his mercye. For hee hathe declared in hys woorde their lymites and boundes in ſuche ſorte, that wee maye aſſure oure ſelues either of ſaluacion or of condemnacion.</p>
+            <p>Notwithſtandynge that hys Mercye reacheth vnto the heauens, and is ouer of all his woorkes, yet are none
+<pb facs="tcp:173936:13"/> therof partakers, but thoſe in whom Chriſt dwelleth by lyuely faith, as S. Paule wri<g ref="char:EOLhyphen"/>teth: <hi>Chriſtus Ieſus in vobis eſt, ni reprobi eſtis.</hi> 
+               <note place="margin">2 <hi>Cor.</hi> 23:</note> And again: <hi>Iuſtus ex fide uiuit.</hi> To the faith<g ref="char:EOLhyphen"/>full <note place="margin">
+                  <hi>Rem,</hi> 1,</note> therefore God hath, for Chriſtes ſake, promiſed mercye, whyche are penitente and conuerte vnto the Lorde, but the vnfaithfull and impenitent that dye in their <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ol</note> ſynnes, ſhall bee confounded and periſhe: <hi>Quoniam nouit Dominus viam iuſtorum, &amp; iter impiorum peribit.</hi> As the vnbeleuers and im<g ref="char:EOLhyphen"/>penitent <note place="margin">
+                  <hi>Pſal,</hi> 1</note> therefore haue promiſed to them <note place="margin">M</note> iudgement, ſo to the faythfull and peny<g ref="char:EOLhyphen"/>tent, God, for Chriſtes ſake onely, hathe promyſed mercye, and wyll not enter into iudgemente wyth theym, bycauſe they bee grafted in Chriſt, vppon whome Saynte Paule ſayeth, there is no condemnacion. Lyfe euerlaſtynge is the guyfte of Godde thoroughe Chriſte, and it belongeth to true chriſtians, whyche vnfaynedlye beleeue in Chryſte, whereof they maye bee gladde: But eternall deathe is the inheritaunce of the vnbeleuers, whome Godde wyll cutte of frome his face with the ſwearde of Iu<g ref="char:EOLhyphen"/>ſtyce, that they ſhall bee deſtroyed. as Da<g ref="char:EOLhyphen"/>uid ſayeth.</p>
+            <p>
+               <hi>Exurgat Deus &amp; diſſipentur inimici eius, &amp;</hi> 
+               <note place="margin">
+                  <hi>Pſalm,</hi> 67,</note> 
+               <hi>fugiant qui oderunt eum, à facie eius. Sicut defi<g ref="char:EOLunhyphen"/>cit fumus, deficiant: ſicut fluit cera à facie ignis,</hi>
+               <pb facs="tcp:173936:13"/> 
+               <hi>ſic pereant peccatores à facie Dei. Et iuſti epu<g ref="char:EOLhyphen"/>lentur, exultent in conſpectu dei, &amp; delectentur in laetitia. &amp;c.</hi> Our ſauior Chriſt ente<g ref="char:cmbAbbrStroke">̄</g>ding to ſet before the peoples eyes the limites of his mercy, &amp; boundes of his iuſtice, y<hi rend="sup">•</hi> they might certify them of whether thei wer partakers, not withſtandyng the vniuerſal preching of his moſt bleſſed word, ſaid: <hi>Euntes in mundu<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> 
+               <note place="margin">
+                  <hi>Mar.</hi> 16.</note> 
+               <hi>vniuerſum, praedicate euangelium omni creatu<g ref="char:EOLhyphen"/>rae: Qui crediderit &amp; baptizatus fuerit, hic ſaluue erit: qui non crediderit, condemnabitur.</hi> Theſe are the limites that Chriſt hath ſette to his mercy and iudgement, whiche are moſte cer<g ref="char:EOLhyphen"/>tayn, of the whiche euery man ſhal taſte, ac<g ref="char:EOLhyphen"/>cordyng to his deedes, as ſaint Paul ſaith: <hi>Hijs quidem qui ſecundum patientiam boni ope<g ref="char:EOLhyphen"/>ris, gloriam &amp; honorem &amp; incorruptione<g ref="char:cmbAbbrStroke">̄</g> quae<g ref="char:EOLhyphen"/>rentibus,</hi> 
+               <note place="margin">
+                  <hi>Rom.</hi> 1.</note> 
+               <hi>uitam aeternam: hijs qui ſunt ex conten<g ref="char:EOLhyphen"/>tione, &amp; qui non acquieſcunt ueritati, credunt autem iniquitati, ira &amp; indignatio, tribulatio &amp; anguſtia, in omnem animam hominis perpetran<g ref="char:EOLhyphen"/>tis malum, Iudaei primum &amp; Graeci.</hi> If therfore gods mercye towardes all menne in Ieſus Chriſte, ſaueth none but the true beleuers, and that for Chriſtes ſake, as it is moſt cer<g ref="char:EOLhyphen"/>tayn: and in the contrary part, gods iudge<g ref="char:EOLhyphen"/>ment condemneth none but the vnbeleuers, <note place="margin">
+                  <hi>Heb.</hi> 3. <hi>Heb.</hi> 6.</note> that dye without repentance, as that is not to be doubted: Therefore it is a ſtynkynge
+<pb facs="tcp:173936:14"/> floure moſt peſtilent to ſay, that he will ſaue al, for the ſcripture doth certify vs, that ſome dyed impenitently in theyr vnbeliefe, for the <note place="margin">2 <hi>Gen.</hi> 4. <hi>Iudic.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Reg.</hi> 31. 4. <hi>Reg,</hi> 19, <hi>Gen.</hi> 19. <hi>Num.</hi> 16.</note> whych cauſe they wer condemned: as Cain, Saul, Sennacheryb, the Sodomites, and the curſed congregation of Corath and Aby<g ref="char:EOLunhyphen"/>ron, whiche wente quycke downe into bell, with other mo, of whom we reade in the old teſtament. Alſo in the newe Teſtamente we rede of Iudas the loſte ſonne, with many o<g ref="char:EOLhyphen"/>ther. <note place="margin">
+                  <hi>Act.</hi> 1.</note> If ſome therfore are all redy condem<g ref="char:EOLhyphen"/>ned, then abhominable is this erroure, that at length all men ſhall be ſaued. O pernici<g ref="char:EOLhyphen"/>ous hereſy ſo farre agaynſt god and his holy teſtament, through who<g ref="char:cmbAbbrStroke">̄</g> vnbeleuyng Cayn is promoted to ſaluation as well as faithful Abell: and curſed Iudas as well as bleſſed Peter, contrary to the purpoſe of God, decla<g ref="char:EOLunhyphen"/>red in his worde. O ſubtyll deuill, that with the ſtynke of this deathly floure poyſonneſt mans ſoule with vayne hope and hellyſhe ſecuritie, cleane peruertynge hym frome the truthe, that he ſhoulde receyue the grace of god in vayne. For ſurely as God hathe ex<g ref="char:EOLhyphen"/>preſſed his iuſtice from the beginnyng vpon the vnbeleuynge, and his mercye vppon the faythfull, ſo wyll he doo to the ende and con<g ref="char:EOLunhyphen"/>cluſion of the world. As whan he commeth to iudgement, it ſhall apeare. For than wyll he ſeparate the lambes from the goates, the
+<pb facs="tcp:173936:14"/> one on his right hande, to lyfe, and the other on his lefte hande, to death. <hi>Beati igitur qui</hi> 
+               <note place="margin">
+                  <hi>Apoc.</hi> 22.</note> 
+               <hi>ſeruant mandata illius, ut ſit potestas corum in ligno vitae: foris auteni canes ve nefici, homicidae &amp; impudici &amp; idolis ſeruientes, &amp; omnis qui amat mendatiu<g ref="char:cmbAbbrStroke">̄</g>.</hi> For the time ſhall come, that the faythfull ſhall heare this ſwete voyce, <hi>Venite benedicti patris mei, in regnu<g ref="char:cmbAbbrStroke">̄</g> preparatu<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> 
+               <note place="margin">
+                  <hi>Math.</hi> 25.</note> 
+               <hi>pro uobis ab initio.</hi> And the vnfaythfull ſhall heare, <hi>A bite in ignem aeternum &amp;c. ergo non omnes ſaluentur.</hi>
+            </p>
+            <p>But if this flowre will not ſerue, than he bryngeth an other of no leſſe poyſon than this was, wherwithall he wold perſuade by a common order, that none ſhall be ſaued. And this is his flowre.</p>
+            <p>That there is no predeſtination of God: O deceauable dyuel, that leueſt no ſtone vn<g ref="char:EOLhyphen"/>rolled to drowne men in to perdytion. By this co<g ref="char:cmbAbbrStroke">̄</g>tagious floure, he laboreth to make men deny the holy Predeſtination of God, and theyr election in Ieſus Chriſte, in whome the faythefull are ſealed to eter<g ref="char:EOLhyphen"/>nall lyfe. That in denyenge thereof, hee myghte wype oute of theyr ſowle the com<g ref="char:EOLhyphen"/>forte of theyr Iuſtyfycation, and glory<g ref="char:EOLhyphen"/>fycation, the effectes of the Predeſtyna<g ref="char:EOLhyphen"/>tion of God, the whyche Saynet Paule ſoo ſtrongely confyrmethe vnto the Ro<g ref="char:EOLhyphen"/>maynes,
+<pb facs="tcp:173936:15"/> ſayenge: <hi>Scimus autem quod hijs qui diligunt deum, omnia cooperantur in bonum, nimiru<g ref="char:cmbAbbrStroke">̄</g> hos qui iuxta propoſitu<g ref="char:cmbAbbrStroke">̄</g> vocati ſunt &amp;c.</hi> 
+               <note place="margin">
+                  <hi>Rom.</hi> 8.</note> 
+               <hi>Porro quos praedeſtinauit, eoſdem &amp; vocauit: &amp; quos uocauit, cos &amp; iuſtificauit: quos autem iuſtificauit, eos &amp; glorificauit.</hi> Thus we ſee, that the effectes of predeſtination, is iuſtifi<g ref="char:EOLhyphen"/>cation and glorification: the which if the di<g ref="char:EOLhyphen"/>uell coulde make vs to deny, he would ſoone make vs renou<g ref="char:cmbAbbrStroke">̄</g>ce our iuſtificatio<g ref="char:cmbAbbrStroke">̄</g>: if he could make vs renou<g ref="char:cmbAbbrStroke">̄</g>ce our iuſtification, then wold he eaſyly perſuade vs that ther wer no Chriſt, or that he died in vayne. If he coulde cauſe vs to deny Chriſte, or to thynke that he died in vayne, then wolde he deſtroy the fayth: if no man had fayth, that none ſhuld be ſaued: <hi>Qui non crediderit, condemnabitur.</hi> Take heed <note place="margin">
+                  <hi>Marc.</hi> 16.</note> therfore that no man ſmell to this daunge<g ref="char:EOLhyphen"/>rous floure, leaſt he erre agaynſt the truth, and denye that whiche is confirmed by the truthe. For ſaynt Paule confirmynge oure election and predeſtination in Ieſus Chriſt gaue harty thankes to god for it, as for the ſweete conſerue of the ſoule, and principall medicine to theym that by faithe cleane to Goddes promyſe made in Chriſt, ſayenge: <hi>Benedictus deus et pater domini noſtri Ieſu Chri<g ref="char:EOLunhyphen"/>sti, qui benedixit nos i<g ref="char:cmbAbbrStroke">̄</g> omni benedictio<g ref="char:cmbAbbrStroke">̄</g>e ſpiritu<g ref="char:EOLhyphen"/>ali</hi> 
+               <note place="margin">
+                  <hi>Eph.</hi> 1.</note> 
+               <hi>in coeleſtibus i<g ref="char:cmbAbbrStroke">̄</g> Chriſto: ſicut elegit nos in ipſo</hi>
+               <pb facs="tcp:173936:15"/> 
+               <hi>ante mundi conſtitutionem, ut eſſemus ſancti &amp; immaculati in conſpectu eius in charitate. Qui praedeſtinauit nos in adoptionem filioru<g ref="char:cmbAbbrStroke">̄</g> per<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſum Chriſtum &amp;c.</hi> If there had ben no prede<g ref="char:EOLunhyphen"/>ſtination, then wold not S. Paul haue giuen thanks to God for it. But out of doubt ther is a predeſtynation, the whych is certayn in God, although it be vncertayne in vs, and none otherwyſe knowen, but in that we fele the ſpirite of grace workyng fayth and obe<g ref="char:EOLhyphen"/>dience in our hartes vnto the word of god: and that is the true token wherby the ſpirite of god certifieth our ſpirites, that we at the electe ſonnes of God. Let no man therfore raſhely iudge of gods holy predeſtination, but let euery man ſubmyt his iudgement to the word of God, without curioſitie, ſekyng that ende in predeſtination, whiche ſayncte Paul wylled the Epheſians to lerne, namely <hi>Elegit nos in ipſo ut ſancti eſſemus &amp; immacu<g ref="char:EOLhyphen"/>lati in conſpectu eius in charitate,</hi> That felyng this mynde and deſyre in theim ſelues, they may reioyce in theyr election, and geue thais<g ref="char:EOLunhyphen"/>kes with ſaint Paul. Who ſo euer than ther be, that is faythfull, and coueteth rightly to vnderſtande predeſtination, let hym attende vpon Chriſt, that he may fynde hym ſelfe in hym, without whom there can be found no worthy toke<g ref="char:cmbAbbrStroke">̄</g> of Predeſtinatio<g ref="char:cmbAbbrStroke">̄</g>. &amp; beware that no man be ſo blynde, that he ſhulde deny the
+<pb facs="tcp:173936:16"/> predeſtination of God, for ſo ſhoulde he de<g ref="char:EOLhyphen"/>clare hym ſelfe to be infected with this ſtyn<g ref="char:EOLhyphen"/>kyng floure of the dyuell.</p>
+            <p>Nowe as it is a wycked errour to deny the Predeſtination of God, and our election in Chriſt, and a floure not to be found among chriſten men, ſo it is a moſte damnable here<g ref="char:EOLhyphen"/>ſy, and an execrable flowre of hell, wherein may be ſmelled the poyſon blaſphemy of the dyuell agaynſte the ſonne of God Ieſus Chriſte, to affirme and holde that by prede<g ref="char:EOLhyphen"/>ſtination God is the author of ſyn, where as we may learne in ſcripture, that the holy Predeſtination of God neuer paſſeth, but alwayes continueth within the boundes of Godlynes and ryghteouſnes: where by all myghty God at no tyme moueth any man to ſinne: <hi>Vniuerſae enim viae domini miſericor<g ref="char:EOLhyphen"/>dia &amp; veritas.</hi> Saynt Iames therfore to de<g ref="char:EOLunhyphen"/>clare <note place="margin">Iacob.</note> that God is not the author of ſynne, ſayth that God tempteth no man to euyll. Satan is the cauſe of ſynne, and ſynne the cauſe of our punyſhemente, what bryngeth the wrathe of God vpon vs, and maketh his anger ſo fierſe ouer vs? Syn. What is the cauſe that Gods truthe taketh no place in vs, and that we receyue the grace of god in vayne? Synne. Therefore it is written, <hi>In cor maleuolu<g ref="char:cmbAbbrStroke">̄</g>, non introibit ſapientia: nec ha<g ref="char:EOLhyphen"/>bitabit</hi> 
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ap.</hi> 1.</note> 
+               <hi>in corpore ſubdito peccatis. &amp;c.</hi> Eſai co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>firmeth
+<pb facs="tcp:173936:16"/> the ſame, ſaying: Your ſinnes haue ſeparate you frome god. Sainct Paule alſo teachi<g ref="char:cmbAbbrStroke">̄</g>g the Romains, wherwith God was and is diſpleaſed, ſayd: <hi>Reuelatur ira Dei de</hi> 
+               <note place="margin">
+                  <hi>Rom.</hi> 1.</note> 
+               <hi>coelo ſuper omnem iniuſtitiam &amp; impietatem ho<g ref="char:EOLunhyphen"/>minum. &amp;c.</hi> If God bee than diſpleaſed at ſynne (as his word doth declare hym to be) than is he not the authour of ſyn, onleſſe we ſhuld grant (as God forbyd) that he is both a mutable god or a diſſembling God, which coueteth or alloweth that, which he ſaith by his word, he doth hate. For he is the author of nothyng but of that whiche he aloweth. As he therfore is good only, and goodnes it ſelfe, contrarye to all iniquitie: ſo is he au<g ref="char:EOLhyphen"/>thor of all godlynes and vertue, and no ſyn. For this cauſe hath he co<g ref="char:cmbAbbrStroke">̄</g>manded vs to flee from all ſyn, as from a ſerpent: declaryng in his bleſſed teſtament, that they be blynd, as concernyng the knowlege of god, yea ſtran<g ref="char:EOLhyphen"/>gers from al truth, that ſay, thei haue felow<g ref="char:EOLunhyphen"/>ſhip with the light, &amp; yet walke in darkenes. <note place="margin">1. <hi>Ioan.</hi> 1.</note> Therfore he willeth al men to abſteyn from ſyn, wherof he is not the author, but the ha<g ref="char:EOLhyphen"/>ter: not the cauſe, but aue<g ref="char:cmbAbbrStroke">̄</g>ger: &amp; with a liuely faith to withſtand the diuel, the author &amp; on<g ref="char:EOLhyphen"/>ly <note place="margin">
+                  <hi>Ioan.</hi> 8.</note> cauſe of ſyn, as it is writen: <hi>Diabolus men<g ref="char:EOLhyphen"/>dax est, &amp; pater eius.</hi> Awai therfor with this peſtilent floure &amp; creping peſtile<g ref="char:cmbAbbrStroke">̄</g>ce in y<hi rend="sup">e</hi> dark, wherby y<hi rend="sup">e</hi> diuell buſily ſeki<g ref="char:cmbAbbrStroke">̄</g>g our deſtruction,
+<pb facs="tcp:173936:17"/> laboureth to perſuade vs litell to regard the lawe of God, to neglecte our conſcience, to eſchue no euyll, to folowe all miſchiefe lyke vnbrideled horſes: and that bicauſe God is diſpleaſed at no ſynne, whiche is the author of all (as the dyuell teacheth.) But lette vs buylde our fayth vpon the word of god, ſan<g ref="char:EOLhyphen"/>ctified and ſealed with the bloud of Chriſte, wherby we are taught that God is holy, iuſt and good, and the cauſe of no ſynne, as it is wryten: <hi>Quoniam non Deus uolens iniquitate<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> 
+               <note place="margin">
+                  <hi>Pſal.</hi> 5.</note> 
+               <hi>tu es. Ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> habitabit iuxta te malignus, ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> per<g ref="char:EOLunhyphen"/>mane bunt iniuſti ante oculos tuos. Odisti omnes qui operantur iniquitatem. &amp;c.</hi> Therefore by predeſtination god doth not prouoke or al<g ref="char:EOLhyphen"/>lure any man to ſynne, bycauſe he is god, and playeth not the part of the dyuel: but he hath predeſtinate his iudgement, wherwith he wyll reward euery man as he hath done, either lyfe or death, vnto whoſe predeſtina<g ref="char:EOLhyphen"/>tion nothyng appertayneth, but iuſt condem<g ref="char:EOLunhyphen"/>nation to the vnbeleuers, and vndeſerued mercy to the faythfull. Chriſte came to take away our ſynne, and there was no ſynne in hym. As there was no ſynne in hym, ſo was there no ſynne of hym: that that was not of hym, was not his woorke: that whiche was not in his work, was not in his predeſtinati<g ref="char:EOLunhyphen"/>on. a damnable floure of the diuels orchard.</p>
+            <p>But if this flowre ſerue not, he hath an o<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:173936:17"/> ready in ſtore, the ſmell whereof no leſſe infecteth than thother. That is,</p>
+            <p>Chriſt died for his owne ſynnes as well as for the ſinnes of the people.</p>
+            <p>How the diuel hath wrought by this flour, ye haue an exa<g ref="char:cmbAbbrStroke">̄</g>ple before youre eies, that ye may learn to eſchew the ſauor of ſo perillous a flour. For the poiſonyng of this, ought to be to you a perpetuall warnyng, to beware the engins of the diuel, that he at no time be<g ref="char:EOLhyphen"/>witch you to fall into ſuch an errour ſo farre againſt the truthe. By this blynd ſuggeſtio<g ref="char:cmbAbbrStroke">̄</g> the dyuel goth to appeach Chriſts innocen<g ref="char:EOLhyphen"/>cy, righteouſnes &amp; death, and to make hym an inſufficient Sauiour, whereby he myghte make vs opynion, that the law were not ſa<g ref="char:EOLhyphen"/>tiſfied for vs, neither yet God contented to<g ref="char:EOLhyphen"/>wardes vs. For God coulde not bee pleaſed towardes vs, vntyll his lawe were ſatiſfied. And the lawe coulde not bee ſatiſfied, vntyll one that had not tranſgreſſyd the law, ſhuld be propitiation for their ſynnes, that were condemned by the law. Seyng therfore that none could be found of the ſynfull generati<g ref="char:EOLhyphen"/>on of Adam, that hadde not in Adam tranſ<g ref="char:EOLhyphen"/>greſſed the law, <hi>Omnes enim peccauerunt, ſi<g ref="char:EOLhyphen"/>mul</hi> 
+               <note place="margin">
+                  <hi>Gala.</hi> 4. <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>alm.</hi>
+               </note> 
+               <hi>inutiles facti ſunt,</hi> whan the full tyme was come, God ſente hys ſonne made of a woman, <hi>Factum ſub lege, vt eos qui ſub lege</hi> 
+               <note place="margin">
+                  <hi>Gal.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>erant, redimeret.</hi> which thyng he coulde not
+<pb facs="tcp:173936:18"/> do, if he hadde not beene innocent and with<g ref="char:EOLhyphen"/>out ſynne. Moyſes therefore to repreſente his innocency and puritie without ſyn, cau<g ref="char:EOLhyphen"/>ſed the chyldren of Iſraell whan they cele<g ref="char:EOLhyphen"/>brated the paſſeouer, which repreſented the ſacrifice of Chriſtes bodye, to take a Lambe of one yeare, withoute ſpotte, in token that Chriſt was without ſynne. To declare ther<g ref="char:EOLhyphen"/>fore that he was the true Meſſias, ſent fro<g ref="char:cmbAbbrStroke">̄</g> God to ſatiſfye the lawe, and that by hys innocencye, he with his owne mouth, ſaid: <hi>Princeps huius mundi ve nit, &amp; in me non ha<g ref="char:EOLhyphen"/>bet</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>quicquam.</hi> Eſay alſo ſayth: <hi>Chriſtus Iniqui<g ref="char:EOLhyphen"/>tatem non fecit, ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> dolus inuentus est in ore</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> 
+               <hi>eius.</hi> Chriſte therefore beyng wythout ſinne, howe could he dye for his owne ſinne? But the ſcripture teacheth vs, that he alone dyed for our ſynnes, to redeeme vs from ſynne, as it is wrytten: <hi>Ipſe vulneratus eſt propter ini<g ref="char:EOLhyphen"/>quitates</hi> 
+               <note place="margin">
+                  <hi>Eſa.</hi> 53.</note> 
+               <hi>noſtras, &amp; attritus propter ſcelera no<g ref="char:EOLhyphen"/>ſtra.</hi> Awaye therefore with thys contagi<g ref="char:EOLhyphen"/>ous floure, and receiue the truthe ſpoken by S. Paul to your great comfort, who ſaith <note place="margin">Hebr.</note> 
+               <hi>Non habemus Pontificem qui non poſſit affici ſenſu infirmitatum noſtraru<g ref="char:cmbAbbrStroke">̄</g>, tentatum per omnia iuxta ſimilitudinem abſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> peccato.</hi> O ſubtyll dy<g ref="char:EOLhyphen"/>uell, that ſo canſte enchaunte the myndes of ſymple menne, to make theym ſo iudge of the immaculate lambe Ieſus Chryſt. Whe<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:173936:18"/> cauſeſt thou the ſheepe of God to wan<g ref="char:EOLunhyphen"/>dre thorow thy entyſyng floures, oute of the ſweete paſture of Gods veritie?</p>
+            <p>But nowe that hee ſeeth hys enterpryſe ſo ſhameleſſe and wylfull, yea and open to all mennes eyes that it is eſpyed, hee paſſeth frome the boddye of Chryſte, and blaſphemeth hys holly Spirite.</p>
+            <p>Therefore hee ſheweth manne an other flo<g ref="char:EOLhyphen"/>wer, where thoroughe hee woulde haue his foule periſhe. Whych flower is thys.</p>
+            <p>That a manne hauynge the ſpirite of God, maye haue his neyghboures wyfe in common.</p>
+            <p>Thys flower is ſo fyltbye and ſo blaſ<g ref="char:EOLhyphen"/>phemous an erroure againſte God and hys hollye ſpyryte, that the abhominacion ther<g ref="char:EOLhyphen"/>of abhorrynge the verye lawe of nature, ſo condempneth it, that it needeth no far<g ref="char:EOLhyphen"/>ther confutacion. For what other thing meaneth the dyuell by thys flower, but to make whooredome and all ſuche abho<g ref="char:EOLhyphen"/>minacions to bee frutes of Goddes ſpirit? Where as Saynte Paule dooth prooue to the Galathians, that godlynes is the frute of Goddes ſpirite. And therefore he ſayth: <hi>Fructus ſpiritus est charitas, gaudium, pax,</hi> 
+               <note place="margin">
+                  <hi>Gala.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>lenitas, benignitas, bonitas, fides, manſue<g ref="char:EOLhyphen"/>tudo: aduerſus huiuſmodi non eſt lex.</hi>
+            </p>
+            <p>Wherefore whooredome proceedeth not
+<pb facs="tcp:173936:19"/> of Gods ſpirite, but of the dyuell and oure fleſhe, of whome it is a woorke. wherof S. Paule hathe thus prophecied, that who ſo commytteth therein, onleſſe he repent, ſhall neuer bee heyre of the kingdome of God.</p>
+            <p>Goddes ſpyrite dooth not priuiledge annye manne to do that, whyche is forbydden by the woorde of God: but to pollute theyr neighboures bed, is forbidden by the woord of God: therefore no man hauynge the ſpi<g ref="char:EOLhyphen"/>rite of God, may doo anye ſuche abhomina<g ref="char:EOLhyphen"/>cion: For God hathe ſayde: <hi>Non committes</hi> 
+               <note place="margin">
+                  <hi>Mar.</hi> 10. <hi>Exo.</hi> 20.</note> 
+               <hi>adulterium.</hi> And agayne: <hi>Scortatores &amp; adul<g ref="char:EOLhyphen"/>teros iudicabit Deus.</hi> A wycked and pernici<g ref="char:EOLhyphen"/>ous <note place="margin">
+                  <hi>Heb.</hi> 13</note> hereſye it is, lotheſome to anye chriſtian cares, to heare any manne breathe oute the ſauour of ſo ſtynkyng a flower, which viola<g ref="char:EOLhyphen"/>teth not only the ſacred inſtitutio<g ref="char:cmbAbbrStroke">̄</g> of Chriſt, bycauſe the Lorde hath ſayde: <hi>Ambo erunt</hi> 
+               <note place="margin">
+                  <hi>Heb.</hi> 13</note> 
+               <hi>vna Caro. Et, Honorabile connubium &amp; thorus immaculatus.</hi> but alſo it diſpatcheth a ſyde the wyll of God: whiche thynge Gods ſpi<g ref="char:EOLhyphen"/>rite teacheth no man to doo. For S Paule ſaith: <hi>Haec eſt voluntas Dei, ſanctificatio veſtra,</hi> 
+               <note place="margin">
+                  <hi>Teſſ.</hi> 4.</note> 
+               <hi>vt abſtineatis à fornicatione. &amp;c.</hi> Ergo to haue thy neighbours wyfe, is againſt Gods wyll, and forbydden the, if thou haue the ſpi<g ref="char:EOLhyphen"/>rite of Chriſt. Howe God hateth the curſed ſecte of Nycolaitans, whoſe hearts were in<g ref="char:EOLhyphen"/>fected with the ſauour of this peſtilent flour,
+<pb facs="tcp:173936:19"/> S. Iohn doth not hide, that we ſhuld eſchew <note place="margin">
+                  <hi>Apoc</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> the plages that God brought vppon them. Vnſpeakable is this hereſye, and not to be talked of anye man, muche leſſe to be holden. I knowe none infected with theſe afore<g ref="char:EOLhyphen"/>ſayde errours (theſe men except) but if there be anye, God bryng theym into the way of truth. But now if the diuel can not perſuade men to commit whoredome by the ſpirite of God, wherby God in his wrath maye take his holy ſpirite from them, that they may pe<g ref="char:EOLunhyphen"/>riſh, tha<g ref="char:cmbAbbrStroke">̄</g> he taketh an other ſhameful flour, to deteſtable to bee ſpoken, whereby hee tea<g ref="char:EOLhyphen"/>cheth men to affirme that, whiche goddes woorde flatly condemneth: namely</p>
+            <p>That the inwarde manne ſynneth not, whan the vtter man ſynneth.</p>
+            <p>O peſtilent flour, breding in man al beaſtli<g ref="char:EOLhyphen"/>nes, wherby his foot is in hel or he bee ware, For whilſt he promiſeth him ſelf; life, thorow a vaine hope, &amp; gyueth his membres ouer to ſerue ſyn, he becometh the ſeruant of ſynne, whoſe reward is deth. For y<hi rend="sup">e</hi> outward ma<g ref="char:cmbAbbrStroke">̄</g> ne<g ref="char:EOLunhyphen"/>uer ſinneth vnto deth, althogh no good thi<g ref="char:cmbAbbrStroke">̄</g>g dwelleth in it, but whan the inward manne conſenteth thereto. Therefore the ſerpent entrynge by oure fleſhe aſſaulteth the ſoule with wycked temptacions, to make it obedi<g ref="char:EOLhyphen"/>ente to the luſtes of our fleſh. Wherefore althoughe wee haue participate thorowe
+<pb facs="tcp:173936:20"/> Adames diſobedience the poyſonned na<g ref="char:EOLhyphen"/>ture of the dyuell, whiche dwelleth in oure fleſhe, and alwaies byddeth battayle againſt our ſoule, yet the dyuell obtaineth not hys praye, vntyll the ſoule of man (neglecting the grace of God) gyueth it ſelfe ouer wyth conſence to ſerue the wycked apperytes of the fleſhe. Sayncte Paule therefore wyl<g ref="char:EOLhyphen"/>lynge manne to contynue Goddes warry<g ref="char:EOLhyphen"/>ar agaynſte ſynne both in body and ſoule, cryeth to the Romaynes: Lette not ſynne <note place="margin">
+                  <hi>Rom.</hi> 6</note> raygne in youre mortall boddyes, that yee ſhoulde fulfyll the luſtes thereof.</p>
+            <p>Whan raigneth it, but when the ſoule is be come the bonde ſlaue to the fleſhe? whyche oughte thoroughe the ſpyrite of grace, to raigne and rule. Therefore Sayncte Paule ſaith: Looke to whome yee giue ouer youre ſelues to obeye, his ſeruauntes yee are to whom yee obeye, whether it bee ſynne vnto deathe, or righteouſnes vnto lyfe. To gyue ouer and obeye what meaneth it, but when thorow grace we ſerue God in ſoule and bo<g ref="char:EOLhyphen"/>dy, or els ſerue the dyuell in ſoule and body? Dauid the prophete not infected with thys floure, but knowing that the bodye ſinning, the ſoule coulde not be free, yea rather confeſ<g ref="char:EOLunhyphen"/>ſyng al miſchief to procede from the inward man, ouercomme and obeying the dyuell, cri<g ref="char:EOLunhyphen"/>ed vnto the Lorde, who onely coulde helpe
+<pb facs="tcp:173936:20"/> him: <hi>Cor mundum crea in me Deus, &amp; Spiritum</hi> 
+               <note place="margin">
+                  <hi>Pſal.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> 
+               <hi>rectum innoua in viſceribus meis.</hi> Whiche peticion hee woulde neuer haue made, if he hadde thoughte, that the inner manne ſin<g ref="char:EOLhyphen"/>ned not, whan the outward manne ſynned. Why ſhoulde the Prophet Ioel haue wyl<g ref="char:EOLhyphen"/>led the people of Iſraell to rente their har<g ref="char:EOLhyphen"/>tes and not their cloths, yf he had thought, (as the dyuell wolde haue men thynke,) that the inwarde man ſynned not? &amp;c. But he be<g ref="char:EOLhyphen"/>leued that the inward manne ſynneth wyth the outwarde, and needeth to repent. Ther<g ref="char:EOLunhyphen"/>fore he cried: <hi>Scindite corda veſtra, &amp; non ve<g ref="char:EOLhyphen"/>ſtimenta</hi> 
+               <note place="margin">
+                  <hi>Ioel.</hi> 2.</note> 
+               <hi>veſtra.</hi> Our Sauiour Chriſt to be<g ref="char:EOLhyphen"/>face and deſtroye this perillous flour, decla<g ref="char:EOLhyphen"/>rynge that the inwarde man ſynneth as wel as the outwarde, ſayed: <hi>Ex corde exeunt co<g ref="char:EOLhyphen"/>gitationes malae, homicidia, adulteria, forni<g ref="char:EOLhyphen"/>cationes, ſurta, falſa teſtimonia, blaſphemiae, &amp;c.</hi> Beware therefore of thys floure.</p>
+            <p>Another flour the diuel hath in ſtore, if this ſerueth not to infect mans ſoul withal, wher<g ref="char:EOLunhyphen"/>by he woold haue him preſume of hym ſelfe, to do that which is not in him ſelfe. Thys flour is a peſtilent floure, wherewith the dy<g ref="char:EOLhyphen"/>uell hath in tyme paſte deceiued many.</p>
+            <p>This flour is, that by free wyll, ſprong of our own nature, we may beleue the goſpel, and doo all thynges pleaſyng to God.</p>
+            <p>Or elſe hee bryngeth an other
+<pb facs="tcp:173936:21"/> flour not vnlyke to y<hi rend="sup">e</hi> ſame, wherby he wold haue man to take Chriſtes office in hande, &amp; to be Chriſt to hym ſelfe, namely <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> That by our fre wil, we may ſaue our ſouls.</p>
+            <p>Theſe venemous flours of preſu<g ref="char:cmbAbbrStroke">̄</g>ptio<g ref="char:cmbAbbrStroke">̄</g> to be ſtinki<g ref="char:cmbAbbrStroke">̄</g>g wreds, Gods word doth prooue, wil<g ref="char:EOLhyphen"/>lynge all men to beware of them, for aſmuch as by theym, ſynfull man is ſette in the place of our righteous God, and maye come to heauen, if this were not an erroure, whe<g ref="char:EOLhyphen"/>ther God wyll or no. Than the which what blaſphemy canne be greater? To prooue the fyrſte to bee a verye lye, Saynt Iames ta<g ref="char:EOLhyphen"/>keth <note place="margin">
+                  <hi>Iacob.</hi> 1</note> in hand, whiche ſaith, That euery good guyfte and perfecte guyfte commeth frome God the father of light. But faith is a good and perfect guifte, ergo it commeth of God: than man canne not gyue hym ſelfe faythe. Alſo our Sauiour Chryſte ſayth: <hi>Sine me ni<g ref="char:EOLhyphen"/>hil</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oan.</note> 
+               <hi>poteſtis facere.</hi> that is, w<hi rend="sup">t</hi>out me you can do nothing ergo we can not pleaſe God of our ſelues. S. Paul confuteth the latter errour &amp; proueth it to be flat againſt the truth, ſayi<g ref="char:cmbAbbrStroke">̄</g>g <hi>Gratia eſtis ſaluati per fidem, id<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> non ex uobis,</hi> 
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ph.</hi> 2</note> 
+               <hi>Deidonum eſt, no<g ref="char:cmbAbbrStroke">̄</g> ex operibus, ne quis glorietur.</hi> Therfore we be not ſaued bi our own fre wil. Chriſte hath taken vs frome the vengeau<g ref="char:cmbAbbrStroke">̄</g>ce to come, ergo not our owne free wyll. Chriſt <note place="margin">
+                  <hi>Teſſ.</hi> 1</note> is our iuſtification &amp; redemption, ergo not our own free wil. No ma<g ref="char:cmbAbbrStroke">̄</g> ca<g ref="char:cmbAbbrStroke">̄</g> come to y<hi rend="sup">e</hi> father
+<pb facs="tcp:173936:21"/> but by Chriſte, therfore we can not be ſaued by our freewyll. Sainct Paule after he felte the comfort of his election in Ieſus Chriſt by faith, he dyd not ſay, Of myne owne fre<g ref="char:EOLhyphen"/>wyll I am that I am: but he ſayde, By the grace of God I am that I am. Sure it is therfore, that wee can not thynke good nor doo good, neither wil good, nor work good, without the grace of God. For as S. Paul ſayth: God worketh bothe the wyll and the deede. Awaye than with this filthy freewyll floure, which is able to do vs no good (with out the grace of God) but co<g ref="char:cmbAbbrStroke">̄</g>demne vs. and let vs faithfully embrace our ſauior Chriſt, which is our only ſauior, and none other: &amp; by who<g ref="char:cmbAbbrStroke">̄</g> we receiue all good giftes, &amp; by none other: and by who<g ref="char:cmbAbbrStroke">̄</g> we do al thyngs pleaſing to God, and by none other: in whom god is pleaſed towardes vs, and by none other.</p>
+            <p>But if he can not preuaile by this meane, he wyll ſeke an other, wherby he may make man offende agaynſt God. And bicauſe no<g ref="char:EOLhyphen"/>thyng can ſooner deceyue manne than that miſchief, that hath ſome colour of goodnes: therefore he tempteth man to make new in<g ref="char:EOLhyphen"/>uentions to hymſelfe, and miſlyke all publik and common order:</p>
+            <p>Saying, that to inuent orders in religion, and to miſlyke al thyng y<hi rend="sup">e</hi> we inuent not our ſelf, is not euyl: or y<hi rend="sup">e</hi> it is lauful to euery man
+<pb facs="tcp:173936:22"/> to make peculiar orders to him ſelfe, in con<g ref="char:EOLhyphen"/>tempt of the co<g ref="char:cmbAbbrStroke">̄</g>mon order. But the worde of God doth not allow any man to co<g ref="char:cmbAbbrStroke">̄</g>temne or miſlike any publike order, ſet forth by his ſu<g ref="char:EOLunhyphen"/>periors authoriſed thervnto, which order is conſonant to the worde of god, whether it be in ceremonies, or any thyng apertainyng to godly religion, &amp; to vſe thynges inuented by him ſelf publikely. For this floure hath in it the making ſauour of ſelfe opinion, the whi<g ref="char:EOLunhyphen"/>che S. Paul wylleth to be abſent from chri<g ref="char:EOLhyphen"/>ſten men, ſaiynge: Bee not wyſe therfore in your own conceits. Away therfore with this flowre, and receiue the wholſome doctrine of S. Paul, <hi>Omnis anima poteſtatibus ſublimiori<g ref="char:EOLhyphen"/>bus</hi> 
+               <note place="margin">
+                  <hi>Rom.</hi> 13.</note> 
+               <hi>ſubdita ſit, &amp;c.</hi> Who ſoeuer therfore, ey<g ref="char:EOLhyphen"/>ther in ceremonies or godly religion, dooth not conforme hym ſelfe to the co<g ref="char:cmbAbbrStroke">̄</g>mon order; but miſlykyng the co<g ref="char:cmbAbbrStroke">̄</g>mon order, chooſe cere<g ref="char:EOLhyphen"/>monies and doctrines of theyr owne inuen<g ref="char:EOLhyphen"/>tions, are authours of ſectes.</p>
+            <p>I doo not here counte it vnlaufull, neyther cauſe of diuiſion for any man to vſe in his houſe any priuate order, for the tradynge vp of his youthe in vertue and godlyneſſe, ſo that it be conſonant to the woord of God, and in no contempt of the common order.</p>
+            <p>But if the diuell can not cauſe men by his crafty illuſyons, to condemne thynges done by the ſuperyour powers conuenable to the
+<pb facs="tcp:173936:22"/> truthe, and make innouations contrarye to the lawes, than hee laboureth to poyſon men with the ſtinkyng floure of ſeparation or ſegregation from other, as from wycked and damned men, not worthy to communi<g ref="char:EOLhyphen"/>cate the ſacramentes, or to eate and drynke with them. This flowre howe farre it diſ<g ref="char:EOLhyphen"/>ſenteth from the exaumple of Chriſte, it ea<g ref="char:EOLhyphen"/>ſyly may be perceyued to them, whiche with humble hartes reade the woord of god. For Chriſt although he were the ſonne of God, rightuous, holy, and voyde of al ſynne, whi<g ref="char:EOLhyphen"/>che of his iuſtyce coulde not but hate ſynne and wyckednes, yet of his mercy he ſoughte theim that were all togyther vnrightuous, and dyd not ſeparate hym ſelfe from theim. As wel he entred into the houſe of the Pha<g ref="char:EOLunhyphen"/>riſey <note place="margin">
+                  <hi>Math.</hi> 9. <hi>Luc.</hi> 14<g ref="char:punc">▪</g>
+               </note> as into the houſe of the Publican, and eate as well with the one, as he dyd with the other. Whiche thyng if it had been vnlauful for a true chriſtian to do, we ſhuld haue had in hym no ſuche example But when he eate or dranke with them, or came into their com<g ref="char:EOLunhyphen"/>pany, he endeuored to bryng them by chari<g ref="char:EOLhyphen"/>table perſuaſion to the obedience of faythe, &amp; to the vnitie of the ſpirit, from their impietie and vngodlynes. Bicauſe he came to ſaue, &amp; not to loſe, as it is written: The ſon of man cam not into the world, to condemn y<hi rend="sup">e</hi> world, but that the worlde ſhulde haue lyfe by hym.
+<pb facs="tcp:173936:23"/> It is therefore laufull for any true chriſtian, to come into the company of the vngodly, ſo longe as he foloweth the example of Ieſus Chriſt. Yea we ought to haue y<hi rend="sup">•</hi> ſame mynd in vs, that was in Chriſte Ieſu, namely to ſeke to draw the vngodly from ſynne to ver<g ref="char:EOLhyphen"/>tue, from corrupt maners to a godly conuer<g ref="char:EOLhyphen"/>ſation, and not vtterly to condemne them as caſt awaies, in reſpect of our ſelues. A daun<g ref="char:EOLhyphen"/>gerous thyng it is to take Goddes office in hand, or to iudge this ma<g ref="char:cmbAbbrStroke">̄</g> or that ma<g ref="char:cmbAbbrStroke">̄</g> conde<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ned without any exception: Seyng it is to vs vncertayn who periſheth in his ſyn. We muſt therfore leaue that to God. Cleere he ought to be that ſhulde condemne an other, leaſt haply it be ſaid to him, as was ſayd to the Phariſeis: Caſt the firſt ſtone. and ſo he go away aſhamed. Therefore it is written, Iuge not, leſt ye be iudged. But it is forbid<g ref="char:EOLhyphen"/>den by the worde of God, that any chriſten man ſhuld kepe company with the vngodly to folow their vngodlynes, or to communi<g ref="char:EOLhyphen"/>cate with them in their ſynnes: that dyd we not ſee in the Lorde Ieſus, neither maye a chriſtian man doo ſo without blame.</p>
+            <p>Example we haue in Ioſaphat, who was blamed of the Lord for goyng with wicked Achab, and doyng the ſame enterpriſe with hym, whiche Achab was forbidden to doo. Salomon ſayth, <hi>Si te lactauerint peccatores,</hi>
+               <pb facs="tcp:173936:23"/> 
+               <hi>ne <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cquieſcas.</hi> And Paul ſayth, <hi>Peccatis alienis</hi> 
+               <note place="margin">1. <hi>Tim,</hi> 5.</note> 
+               <hi>ne communicaueritis.</hi> When the vngodly do declare them ſelues to be ennemies of God, and of all goodnes <hi>(Ex fruct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bus ipſoru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, co<g ref="char:EOLhyphen"/>gnoſcetis eos,</hi> and by none other way) then a chriſten man muſt vſe that order, whyche Chriſte hath apointed in his holy teſtament belongyng to a priuate man, that is, Fyrſte ſecretely to admonyſhe the offendant, than to call two or thre witneſſes: if he than doothe not amende, publyſhe hym to the congrega<g ref="char:EOLhyphen"/>cion, or to the authoriſed diſciplinatours: and he excommunicated by them out of the congregation, ſhall ſeparate hym ſelfe frome the good chriſtians, and they ſhall alſo ſepa<g ref="char:EOLunhyphen"/>rate them ſelues from him, as from an Eth<g ref="char:EOLunhyphen"/>nike, vntill he by repentance be admittted a<g ref="char:EOLhyphen"/>gayne. But if the churche or authoriſed di<g ref="char:EOLhyphen"/>ſciplinatours be in this their office neglige<g ref="char:cmbAbbrStroke">̄</g>t, and wyl not excommunicate ſuche as be no<g ref="char:EOLhyphen"/>torious &amp; manyfeſt euyl workers, than muſt the priuate man co<g ref="char:cmbAbbrStroke">̄</g>mitte the matter to god, deſyryng hym to redreſſe ſuche an abuſe, be<g ref="char:EOLhyphen"/>yng contented to lyue in the church, and re<g ref="char:EOLhyphen"/>ceyue the ſacramentes, without ſeparation, aſſured that the wyckednes of the wycked, can not make an holy thyng vnholy or vn<g ref="char:EOLhyphen"/>profitable to hym, ſo long as he beleueth in Chriſte, and kepeth hym ſelfe vnſpotted fro<g ref="char:cmbAbbrStroke">̄</g> their vnrightouſnes. Scripture muche com<g ref="char:EOLunhyphen"/>mendeth
+<pb facs="tcp:173936:24"/> vnitie and concorde. therfore lette vs caſt away all diuiſion, and growe to the vnitie of the holy ſpirite. Let thoſe that bee ſpirituall, helpe to amend them that are out of the way, in the ſpirite of mekenes, conſy<g ref="char:EOLhyphen"/>deryng them ſelues that they may fall. La<g ref="char:EOLhyphen"/>bour therefore by a godly conuerſation and goſtely councell to call them to repentance that do yll, charitably ſeke them that go a<g ref="char:EOLhyphen"/>ſtray, without condemnyng them as caſt a<g ref="char:EOLhyphen"/>waies, or iuſtifyeng your ſelues. But yet I will no man to neglect circumſpection, al<g ref="char:EOLhyphen"/>though I reproue vncharitable ſeparation. The wyſedome of God dooth not teache me to ſeke an other, and loſe my ſelfe. Wherfore if any man perceyue the fragilitie of his na<g ref="char:EOLhyphen"/>ture to be ſuche, or rather his weaknes, that by occaſyons he is apt to forgette hym ſelfe, to offend god, and to tourne backe to his vo<g ref="char:EOLhyphen"/>mite agayne by kepyng company or famili<g ref="char:EOLhyphen"/>aritie with them that will not bee warned to leaue their beaſtly behauiour, than I thinke it good for that man to withdrawe him ſelfe from thoſe occaſions, and grow ſtro<g ref="char:cmbAbbrStroke">̄</g>ger. For to this end dothe the ſcriptures tend, which treate of eſchewyng euyll company, that no man by keepynge therin companye, ſhoulde fall to lyke vngodlyneſſe, and not to ſepa<g ref="char:EOLhyphen"/>rate them ſelues from other, as though thei alone were onely iuſt, and all other condem<g ref="char:EOLhyphen"/>ned.
+<pb facs="tcp:173936:24"/> Who ſo commytteth herein, dooth de<g ref="char:EOLhyphen"/>clare him ſelf to be infected with this naugh<g ref="char:EOLunhyphen"/>ty floure. But truly I know none that vſeth any ſuche ſeparation: yf there bee any, God reduce them into the way of truthe.</p>
+            <p>Where this peuyſhe floure ſerueth not, he hath an other very fowle and ſtynkynge, to corrupte mans ſoule withall. As theſe are to peſtylent to be founde among chriſtians:</p>
+            <p>Namely to deny that childern be borne in originall ſynne: or that a manne after bap<g ref="char:EOLhyphen"/>tiſme can not fall into deadely ſynne: or be<g ref="char:EOLhyphen"/>ynge ſo fallen, canne not be renewed agayne by repentaunce: or to denye the baptiſme of infantes.</p>
+            <p>Howe the worde of god doth confute theſe errours, and deface theſe floures, I woulde declare yf tyme ſerued: But bycauſe it is ſhorte, and I haue ſomewhat more to ſaye, lette it bee ſufficient for you to knowe, that they are peſtylent and vnwholſom floures.</p>
+            <p>An other flowre the dyuell hath, wherwith he laboureth to make men breake godly or<g ref="char:EOLhyphen"/>der, whiche is this:</p>
+            <p>That it is laufull to be a publyke preacher in a chriſtian co<g ref="char:cmbAbbrStroke">̄</g>mon welth, without the au<g ref="char:EOLhyphen"/>thoritie of the chriſten magiſtrates.</p>
+            <p>But leaue this floure to the dyuell agayne, whyche is and euer wyll bee, an ennemye to chriſtian order. And knowe you, that it is
+<pb facs="tcp:173936:25"/> not laufull in a chriſtian common weale to be a publyke preacher, without the authori<g ref="char:EOLhyphen"/>tie of the hygher powers.</p>
+            <p>An other flowre the dyuell hathe in ſtore, wherwith he woulde perſwade man, that in this lyfe he may attayne ſuche a perfection, that he ſhall ſynne in nothynge.</p>
+            <p>And this is that dotyng floure, that a ma<g ref="char:cmbAbbrStroke">̄</g> may kepe the co<g ref="char:cmbAbbrStroke">̄</g>mandementes of god ſo per<g ref="char:EOLunhyphen"/>fectly and abſolutely, that he ſhall ſynne in nothynge, nor haue nothyng wherof to aſke Gods mercy. But beware of this floure, whiche ſauoureth more of imagination tha<g ref="char:cmbAbbrStroke">̄</g> of knoweledge: more lyke a dreame than a truth: more of foly, than of godly wiſedom. For by it the dyuell goeth about, eyther to make vs forgetfull of oure imbecillitie, that we myght the leſſe regard our ſtrength and protection Ieſus Chriſt: or els that in the ende whan our conſcience doth accuſe vs of offence agaynſt God, and his holy co<g ref="char:cmbAbbrStroke">̄</g>man<g ref="char:EOLhyphen"/>dementes (that they be not perfectly kepte) he may thruſt vs downe headlong to deſpe<g ref="char:EOLhyphen"/>ration. We muſt therfore refuſe the ſauoure of this floure, and nouryſhe oure ſoule with the ſwete odour of the truthe, by whom wee may learne our imbecillitie to bee ſuche, and the corruption of our nature ſo greate, that neither we can or may kepe gods holy com<g ref="char:EOLhyphen"/>maundementes, ſo abſolutely (no although
+<pb facs="tcp:173936:25"/> we haue the grace of God) that here we ſhal ſynne in nothyng. The experience whereof he ſhal eaſyly haue y<hi rend="sup">e</hi> beholdeth himſelfe wel in the lawe of God, wherby he ſhall ſee how infirme he is to obſerue the fyrſt commaun<g ref="char:EOLhyphen"/>dement ſo perfectly, as the lawe requyreth, namely, <hi>Diliges Dominum Deum tuum, ex toto corde, &amp;c.</hi> Wherefore God of hys infinite goodnes, conſydering our imperfection how we are letred thorow our weaknes, and want of our owne power, to keepe the commaun<g ref="char:EOLhyphen"/>dementes of God<g ref="char:punc">▪</g> Yea althoughe our ſoule deſyreth to keepe them, being therto moued by grace, he ſent his deer ſon Ieſus Chriſte to be the fulfillyng of the lawe in vs, as S. Paule ſayth: <hi>Vt i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtitia legis impleretur in</hi> 
+               <note place="margin">
+                  <hi>Rom.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>nobis, qui non ſecundum carnem verſamur, ſed ſecundum ſpiritum.</hi> This is therefore to all faithfull chriſtians no ſmalle conſolation, that although our weaknes be ſuch, that we can not heere ſo perfectly obſerue gods com<g ref="char:EOLhyphen"/>maundementes and ſynne in nothynge, yet we are aſſured by the promiſe of God, made in Chriſt, yf we be faithful, that he wil ſupply that which wanteth in vs, and wil make his perfection to be oures, in whom we ſhall bee preſented before the throne of god, fauteles, as the membres of his precious bodye to e<g ref="char:EOLhyphen"/>ternal life. So that we ſhall not feare in the ende thys ſtynkynge flour, or the dyuels ac<g ref="char:EOLhyphen"/>cuſation,
+<pb facs="tcp:173936:26"/> ſeyng that our Sauioure Chryſte <note place="margin">1 <hi>Cor.</hi> 1</note> is made of God, our wyſedome, our righte<g ref="char:EOLhyphen"/>ouſnes, our ſanctification and redemption. Let vs therefore committe our ſelues to the Lord wyth weldoyng, beyng out of doubt that it ſhall not peryſh, that with an vnfay<g ref="char:EOLhyphen"/>ned hope is committed to hys charge.</p>
+            <p>
+               <hi>Qui confidit in illo, non pudefiet.</hi>
+            </p>
+            <p>But if the dyuell can not end aunger man ſoule wyth theſe floures, yet that hee make man offende in ſome thynge, hee ſeeketh by tri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>les to moue ſeiſme and contentio<g ref="char:cmbAbbrStroke">̄</g>, that v<g ref="char:EOLhyphen"/>nitye (which he ſo muche hateth) &amp; concorde in the truthe, might fade and not growe. Therefore hee moueth muche ſtrife, by the particular callyng of Brother &amp; Syſter, as thoughe Chriſtes churche were dyuided, or that God fauoured ſuche particularitie and diuyſion. But God is the god of peace, and hys delyghte is in godlye vnitie, whyche is the bonde of perfectnes, wherevnto hee wil<g ref="char:EOLhyphen"/>leth all true chriſtians to contend, and wyth it to certifye theym ſelues, that they are in Chriſt, ſonnes of God, and one an others brother, without all carnalitye or particula<g ref="char:EOLhyphen"/>ritie. Whoſoeuer therfore doth call any man or woman brother and ſyſter otherwyſe then he calleth all other chriſtian men, <hi>Peccat in vnitatem eccleſiae.</hi>
+            </p>
+            <p>The other trifli<g ref="char:cmbAbbrStroke">̄</g>g flour of ſciſm &amp; conte<g ref="char:cmbAbbrStroke">̄</g>tio<g ref="char:cmbAbbrStroke">̄</g> is</p>
+            <pb facs="tcp:173936:26"/>
+            <p> That it is deadly ſyn to play at any game for money.</p>
+            <p>By this he laboreth to thruſt into ma<g ref="char:cmbAbbrStroke">̄</g>s heart ſuch a preciſenes, that at length a good ma<g ref="char:cmbAbbrStroke">̄</g> might iudg euery thing although it wer but indifferent, to be damnable ſin. Beware thee fore good chriſtia<g ref="char:cmbAbbrStroke">̄</g>s of this ſubtle floor, &amp; that to play at games of it ſelf is not deadly ſyn, but the abuſyng of our ſelfe in playinge, is damnable ſynne, and great wyckednes, who ſoeuer is permitted to playe at anye game by the lawe, as cardes and dyce and ſuche lyke, although the games of them ſelues be not deadlye ſynne, yet if hee blaſpheme the name of God, maintaine in play a couetous hearte, vſe his mouthe in fylthy communi<g ref="char:EOLhyphen"/>cation, or ſuche lyke vngodlynes, no doubte he committeth deadly ſynne. Alſo hee that is forbydden by the lawe to playe, if he playe in the contempt of the Law, ſpendeth the time Gods creature in ydlenes, hys houſe beyng vnprouided for, which ought to be beſtowed in hys honeſt labour<g ref="char:punc">▪</g> or yf he teare the Lor<g ref="char:EOLhyphen"/>des body with horrible othes, ſpend his goo<g ref="char:EOLhyphen"/>des prodigally, or with crafty legerdemaine as byfoiſting, cogging-girking or falſe dyce, wi<g ref="char:cmbAbbrStroke">̄</g>neth away his neighbours money, or ra<g ref="char:EOLhyphen"/>geth in wrath, ſwelleth with ſpite, deliteth in brauli<g ref="char:cmbAbbrStroke">̄</g>g, fighti<g ref="char:cmbAbbrStroke">̄</g>g &amp; ſuch like miſchief, althogh y<hi rend="sup">e</hi> game of it ſelf be not deadly ſyn, yet they y<hi rend="sup">•</hi>
+               <pb facs="tcp:173936:27"/> thus abuſeth themſelues in play, ſinne da<g ref="char:cmbAbbrStroke">̄</g>na<g ref="char:EOLunhyphen"/>bly. Pityfull it is to ſe how licentiouſly thoſe that be forbidden by pollicy, ſpend their time in vnlawfull games, yea more lamentable it is to ſe y<hi rend="sup">e</hi> the officers appointed for y<hi rend="sup">•</hi> ſearch and correction of ſuche brothels and brothel houſes, ſo neglecte theyr dutye. For thys is a common practiſe, that in euerye markette towne for the moſte parte theſe haſerders make their pryuye conuenticles and meetin<g ref="char:EOLhyphen"/>ges vppon the markette or fayre daye, where the one robbeth the other, both of wytte and monye. In the meane tyme whileſt they bee at their merye fare, the wynes haue at home ſorow ynough, whan they heare their chyl<g ref="char:EOLhyphen"/>dren trye: Mother gyue me bread, and they haue no cru<g ref="char:cmbAbbrStroke">̄</g>me to quench their hunger with all, yet theſe iollye rutters fare well, and thynke theym ſelues ryche in the dyce houſe, where as maiſter beggar ruleth the roaſte at home, and pyncheth bothe wyfe and chyldren by the bellye. But Saynct Paule ſayeth: He that prouydeth not for his fa<g ref="char:EOLhyphen"/>milye, is woorſe thanne an infydell. O myſerye of myſeries, to muche putte in practiſe in theſe oure dayes, as the eyes of poore wyues almoſt oute wyth weping, and the paale coulour and thynne cheekes of poore children can teſtifye. God graunte it maye bee amended in tyme, leaſte worſe
+<pb facs="tcp:173936:27"/> euels happen thereby.</p>
+            <p>Theſe are the beautifull flouts of the dy<g ref="char:EOLhyphen"/>uel, wherwith he ſeeketh nowe, as hee hathe doone in tymes paſte, to blynde the eyes of theym that leade a ſober lyfe. Theſe he ſtra<g ref="char:EOLhyphen"/>weth before them to thys ende, that of good lyuers, they may become euell ſpeakers, and ſo receiue to their confuſio<g ref="char:cmbAbbrStroke">̄</g> the grace of God in vayne. Wherefore good people, ſeynge the myſterye of theſe erronious or ſciſmaticall floures is detected vnto you, wherein ye ſee as it were in a glaſſe, wyth what wylynes the dyuell goeth aboute to obſcure vertue, by impure doctrine and erronious folly<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, let this rude detection therefore be a warnynge vnto you, to flee from hys ſubtelty. Cleane to the truthe, O thou louer of vertue, &amp; reade it with humilitie, feare, and reuerence, for thine erudition, not to diſpute, but to amend, deſyring God alwayes in thy prayer to bee delyuered frome theſe and ſuche lyke ſtyn<g ref="char:EOLhyphen"/>kynge weedes of ſiniſtre doctrine, that thou mayſte not by theym, as the dyuell woulde haue it, receiue the grace of God in vayne. I haue not ſpoken of theſe erroures to thys <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd, that I woulde haue you to learne them, but that I woulde haue you to eſchew them Neither haue I ſpoke<g ref="char:cmbAbbrStroke">̄</g> them vnto you, in the way of recantacion, neither came I to thys place to retract any doctrine that I haue be<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:173936:28"/> taught, as ſome crooked ſpirites, more apt to contention than to concorde, perhaps either thynke, or will hereafter report of me. For God is my witnes, before whom I ſta<g ref="char:cmbAbbrStroke">̄</g>d I neuer helde or taught any of theſe or ſuch lyke erroures. neither do I knowe anye that doth holde or mayntayne any of theym, be<g ref="char:EOLhyphen"/>ſydes theſe two ſimple men, whiche are here puniſhed for their offences: by whom ye may learne to beware of lyke daunger: <hi>Pulchrum eſt alien: frui inſania.</hi> But I came hyther in the way of exhortacion, to requyre you in the name of God, and of his deere ſonne Ieſus Chriſte, that ye ſuffre not the dyuell ſo to be<g ref="char:EOLhyphen"/>witch you, that you ſhuld with the Corinthi<g ref="char:EOLunhyphen"/>ans fal fro<g ref="char:cmbAbbrStroke">̄</g> truth <hi>in Iudaiſmum,</hi> leaſte I haue cauſe to feate you, as S. Paule had to feare the Corinthians, <hi>Ne in vacuum gratiam Dei recipiatis.</hi>
+            </p>
+            <p>As he therfore receiueth the grace of God <note place="margin">
+                  <hi>Pſal.</hi> 13 <hi>Pſal.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1. <hi>Pſa.</hi> 29. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 3.</note> in vain, which vnder good lyuing obſtinate<g ref="char:EOLhyphen"/>ly maintaineth ill doctrine, ſo on the other part he receiueth the grace of God in vain, which vnder wel ſaying ſhameth not to lead an abhominable conuerſation. By this lat<g ref="char:EOLhyphen"/>ter meane, the dyuel in theſe dayes hath de<g ref="char:EOLhyphen"/>ceiued many, who<g ref="char:cmbAbbrStroke">̄</g> he hath perſwaded, either <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. 2.</note> that ther is no God, nor pain for euel works or eis that God is blind, &amp; ſeeth not their exe<g ref="char:EOLunhyphen"/>crable ypocriſy. No meruail therfore, though
+<pb facs="tcp:173936:28"/> they litle regard with their beaſtly lyuing to deny god. y<hi rend="sup">•</hi> bought them. Many therbe that ca<g ref="char:cmbAbbrStroke">̄</g> ſay wel, ye they ca<g ref="char:cmbAbbrStroke">̄</g> ſpeak of God, of Chriſt of eternal l<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, yea of iudgme<g ref="char:cmbAbbrStroke">̄</g>t &amp; the reward y<hi rend="sup">•</hi> y<hi rend="sup">•</hi> vngodly ſhal haue, as though ther were an<g ref="char:EOLunhyphen"/>gels late come from heaue<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:punc">▪</g> but yet fire<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ra<g ref="char:cmbAbbrStroke">̄</g>ds of hel. For out of al queſtio<g ref="char:cmbAbbrStroke">̄</g>, if thei did c<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dite y<hi rend="sup">•</hi> truth that co<g ref="char:cmbAbbrStroke">̄</g>meth out of their lips, or fear y<hi rend="sup">•</hi> God of who<g ref="char:cmbAbbrStroke">̄</g> thei talke. or loue that Chriſte who<g ref="char:cmbAbbrStroke">̄</g> thei cal a ſauiour, or coueted y<hi rend="sup">•</hi> kingdom wherin is euerlaſting lyfe. to conclude if thei beleued y<hi rend="sup">t</hi> God were iuſt &amp; ca<g ref="char:cmbAbbrStroke">̄</g> not but rewarde impenitent ypocrites, wold they (think you) ſerue their fylthy fleſh w<hi rend="sup">t</hi> ſuch greedines, &amp; be ſuch patrons of impiety? Ful wel prophecied Eſay of you ye ypocrites (ſaithe the lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de.) <note place="margin">
+                  <hi>Eſay.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Math.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Mar.</hi> 7.</note> This people draw me me with their <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>pes, but their hartes are far from me. No grea<g ref="char:EOLhyphen"/>ter friendes hath the dyuell had from the bee ginning, than thoſe that ſay and do not, ney<g ref="char:EOLhyphen"/>ther greater fryendes dooth hee require to haue to the worldes end. For by ſay and doo not, the dyuell brought to paſſe to kyll oure ſauiour Chriſte. and by ſaye and doo not, hee purpoſeth to kyll euen in the blade, the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the goſpell. Who doothe not lamente to heare men ſo expert in talkyng, and ſo abho<g ref="char:EOLhyphen"/>minable in lyuynge: ſo frutefull in teaching, and ſo fruteleſſe in woorkyng: ſuche ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>la<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of fayth, and haue ſo lytle?</p>
+            <pb facs="tcp:173936:29"/>
+            <p> Euery man can ſay couetouſnes is naught, yet they deſyre theyr neighbours goods and lyuelode. Euery man ca<g ref="char:cmbAbbrStroke">̄</g> ſay that whoredom is yll, but who almoſt liueth chaſt? Euery man can ſaye, that enuye is a vyce, yet for the moſte, all are enemyes to charity. Eue<g ref="char:EOLhyphen"/>ry manne can ſay, ſlaunder and detractatio<g ref="char:cmbAbbrStroke">̄</g> is wycked, yet very fewe canne ſpeake good by their neighboures. Euery man can ſaye Pryde, Glottonye, Dronkenneſſe, and inſo<g ref="char:EOLhyphen"/>lent behauiour bee very yll, yet cannot they away wyth humility, temperance, ſobrenes nor diſcrete manners. To conclude, Euerye man ſayth he loueth God, yet very fewe de<g ref="char:EOLhyphen"/>ſyre truly to worſhip hym but in their deedes they denye him, &amp; lyue lyke Paganes. Ther fore with the ſame plage that God in tyme paſt rewarded them that ſaid &amp; dyd not, will he bring vpon them, that in theſe dayes ſaye &amp; do not, whoſe da<g ref="char:cmbAbbrStroke">̄</g>nable ypocriſy is as hate<g ref="char:EOLhyphen"/>ful in his ſight, as their was. But God for their ypocriſy ſtrake them with blyndenes &amp; daſynes of heart, wherby they thought they were well, whan theyr caſe was myſerable. they thought themſelues in lyght, whe<g ref="char:cmbAbbrStroke">̄</g> they were in darkenes. and to bee the ſonnes of God, when they were (as their frutes dyd declare the<g ref="char:cmbAbbrStroke">̄</g>) children of the dyuel. Eue<g ref="char:cmbAbbrStroke">̄</g> ſo wil he do to them that imitate their manners in theſe our daies. Thus God rewarded the<g ref="char:cmbAbbrStroke">̄</g>:
+<pb facs="tcp:173936:29"/> 
+               <hi>Perdam ſapientiam ſapientium, &amp; prudentiam prudentium adnihilabo.</hi> So that whyles they thought them ſelues well, and no danger at hand, ſodeynly came theyr deſtruction vpon them lyke a violent floud, that can not be re<g ref="char:EOLhyphen"/>ſyſted: yea whan they thynke with their wiſ<g ref="char:EOLhyphen"/>dome to eſcape, their foolyſhnes ſhall bee ſo greate, that they ſhall fall into theyr owne miſchief, no ma<g ref="char:cmbAbbrStroke">̄</g> perſecutyng them, but a gil<g ref="char:EOLhyphen"/>ty conſcience accuſynge them, for that they ſaid, and did not: yea for this theyr hipocri<g ref="char:EOLhyphen"/>ſy (yf they die in theyr vnbelefe) all that thei take in hand, ſhalbe impure and accurſed of God: ſo that theyr praier to hym ſhall be as blaſphemy, theyr faſtyng as fylthynes, their almes dede as robbery, and theyr worſhyp<g ref="char:EOLhyphen"/>pyng of God, as moſte greateſt diſhonour, and that bicauſe they ſaid, and did not. This S. Paul proueth, ſaying: <hi>Omnia pura puris, porro pollutis &amp; infidelibus nihil eſt puru<g ref="char:cmbAbbrStroke">̄</g>. Sed polluta eſt &amp; illorum mens &amp; conſcientia. Pro<g ref="char:EOLhyphen"/>fitentur ſe ſcire deum, caeterum factis negant, cum ſint abhominabiles, &amp; dicto non audientes, &amp; ad omne opus bonum reprobi.</hi>
+            </p>
+            <p>If therfore it be wycked (as it is in dede) vnder good lyuyng to mayntain yl doctrine ſo is it moſte wycked and damnable, vnder well ſaying, to cloake a fylthy and deteſtable lyuyng: yea ſome be (I feare me) growen in
+<pb facs="tcp:173936:30"/> ſuche wylfull wyckednes, that neyther the terrible iugementes of God, neither world<g ref="char:EOLhyphen"/>ly ſhame wyll dryue them from their ſynne, but as paſt graces, they neuer leaue to worke wyckednes, tyll it forſake them, that is, tyll thei can ſyn no more. Wherfore lyke inheri<g ref="char:EOLhyphen"/>tance as God giueth to thoſe that knowing the truth, wilfully or obſtinatly vnder good liuyng defend hereſy, euen ſo will he reward thoſe hypocrites that ſay and do not, ſo that although thei with wel ſaing, be exalted to y<hi rend="sup">e</hi> cloudes, yet for their euil workyng, with the Capern<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es thei ſhall fall downe to hell, as holy Iob ſayth: <hi>Hypocritae ſuperbia ſi ad coe<g ref="char:EOLhyphen"/>lum</hi> 
+               <note place="margin">
+                  <hi>Io<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> 
+               <hi>uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> aſcederit, &amp; caput eius nubes tetigerit, quaſi ſter quilinium in fide perdetur: qui eum ui<g ref="char:EOLhyphen"/>derant, dicent, vbi eſt?</hi> Wherfore as they can not plead in iudgment their vertue that ob<g ref="char:EOLhyphen"/>ſtinatly mayntayn vntruth, ſo can not thei in iudgement pleade their welſaiyng or hol<g ref="char:EOLhyphen"/>ſom doctrine, that wilfully leade a naughtye conuerſation: but as the ſentence of god is fearful to the one, ſo is it moſt horrible to the other. It ſhal therfore litle profite them that ſay and do not, although thei bragge before Gods throne, ſaiyng, Maſter, maſter, haue we not in thy name prophecied? and in thy name caſt out diuels? and in thy name haue done many myracles? where he will anſwer them again: I neuer knew you: Depart fro<g ref="char:cmbAbbrStroke">̄</g>
+               <pb facs="tcp:173936:30"/> me ye workers <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> theſe two wais ful <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>uel goth about to ma<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> other in tyme paſt, to re<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in vayn, I thought it not <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> neceſſary to make the ſame <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> exhortation to you y<hi rend="sup">e</hi> S. Paul m<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rinth, That ye receiue not the grace of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in vayn. But as god of his fauorable me<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for Chriſts ſake, hath ſent vnto you the w<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Reconciliation &amp; of faith, to call you to <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pentaunce, that ye myght not alone fe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e t<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> comfort of your election, but alſo expreſſe th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fruits of the goſpel in your lyues &amp; maners; So be ye not found, I beſech you, ſuch chil<g ref="char:EOLhyphen"/>dren as halt out of the way, either in defen<g ref="char:EOLhyphen"/>dyng yl ſpeakyng vnder vertuous liuyng, or yll lyuyng vnder vertuous ſpeakyng. But rather, as it wel beſemeth true chriſtians, he pure both in worde &amp; dede, after the enſam<g ref="char:EOLhyphen"/>ple of the fore runner Ieſus Chriſt. Folowe holynes &amp; rightuouſnes, without the which no man ſhall ſee God. for ſo hath he taught vs, ſaying, <hi>Sancti eritis, quia ego ſanctus ſum, do</hi> 
+               <note place="margin">
+                  <hi>Leuit.</hi> 2.</note> 
+               <hi>minus deus ueſter.</hi> Therfor ſ Paul ſayth, We are not called to vncleannes, but to holynes. for this cauſe, as he councelleth vs, let vs glo<g ref="char:EOLunhyphen"/>rify god both in our bodies &amp; in ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpirites. We ar not our own, but his, bought w<hi rend="sup">t</hi> a pre<g ref="char:EOLunhyphen"/>cious ranſo<g ref="char:cmbAbbrStroke">̄</g>, not w<hi rend="sup">t</hi> corruptible gold &amp; ſiluer
+<pb facs="tcp:173936:31"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> (as S. Peter <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>s bloud of Chriſt <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> &amp; without ſpot &amp;c. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Religion yf we folowe <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>oyd of all doublenes and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ment, we ſhall not onely eſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>es of theim that receyued the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God in vain (whoſe carkaiſes wer <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>rthrowen in the wyldernes, and became <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the doung of the earthe) but alſo ſhal en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>e the vnſpeakeable mercy of God, decla<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to the worlde in Ieſus Chriſt, as did the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>atriarkes, Prophetes, and rightuous peo<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, whiche thorough lyuely faythe, obeyed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Lorde, folowed his lawe, and ſerued him <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith a true hart all the dayes of their lyues. Not deferryng the tyme of repentance, and of the true worſhyppyng of God, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll after death, as the vngodly did. Wherfore whan they called vnto the Lorde in the tyme of their trouble, he delyuered them oute of all their diſtreſſe. Therfore he ſayd vnto them, <hi>In tempore accepto exaudiui te, &amp; in die ſalutis ſuccurri tibi.</hi>
+            </p>
+            <p>When was this accepted tyme to the fa<g ref="char:EOLhyphen"/>thers? Whan they being afflicted, and neded healpe, were comforted of the Lord. When was the day of health? when the kyngdom of God was opened vnto them for remiſſi<g ref="char:EOLhyphen"/>on of theyr ſynnes and lyfe euerlaſtynge,
+<pb facs="tcp:173936:31"/> thorugh the paſſion of Chriſt, in whome all the faythfull are bleſſed for euer.</p>
+            <p>
+               <hi>Ecce nunc acceptum tempus, ecce dies ſalutis.</hi> Euen nowe is the ſame accepted tyme to vs wherein wee haue neede of the comfortable helpe of our God. Now is the day of helth and ſaluation, wherein the glad tydyngs of remiſſion of our ſynnes, of euerlaſtyng lyfe is offred vnto vs by grace, through fayth in Ieſus Chriſte.</p>
+            <p>Nowe is the tyme that wyſedome cryeth withoute, and putteth oute her voyce in the ſtretes, ſhe calleth before the congregation in the open gates, and ſheweth her woordes through the citie, ſaying: O ye children, how long wyll the ſcorners delyte in ſcornynge, and the vnwyſe be enemies to knowledge? O tourne you vnto my correction, lo I wyll ex<g ref="char:EOLhyphen"/>preſſe my mynde vnto you, and make you vnderſtande my woordes.</p>
+            <p>Nowe is the tyme wherin we muſt attayn (by grace gyuen from aboue to the faithful) the croune of immortalitie, whiche no man ſhall attayne, but he, that here in this lyfe, ſtriueth laufully, as it is written: <hi>Nemo co<g ref="char:EOLhyphen"/>ronabitur, niſi qui legitime certauerit.</hi> And ther<g ref="char:EOLunhyphen"/>fore Saynt Paule councelleth vs to fyghte the good fyght of faythe.</p>
+            <p>Nowe is the tyme that god hath ſente his ſeruantes the true preachers of his woorde </p>
+            <q>
+               <pb facs="tcp:173936:32"/>
+               <l>Vluimus incerti, nec quos lux craſtina caſus</l>
+               <l>Adferat, humano pectore noſce datur.</l>
+            </q>
+            <p>Seyng then it is ſo vncertayn, and whan it commeth not to be auoyded, we muſt of due<g ref="char:EOLhyphen"/>tie watch and pray, as it is written, <hi>Vigilate &amp; orate, quia neſcitis diem ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> horam,</hi> leaſte our flyght be in the wynter. For the daye of the Lorde is at hand. Therfore prepare oyle in your lampes that ye maye enter with the brydegroome, when he commeth. Doo you not procraſtinate the tyme of amendement, leaſt whan ye come and knock with the foo<g ref="char:EOLhyphen"/>lyſhe virgyns, this aunſwere be made vnto you, <hi>Non noui vos,</hi> For whan he cometh, he wyll not tary, and his rewarde is with hym. Nowe is this accepted tyme whyle it is cal<g ref="char:EOLhyphen"/>led to day. Nowe is the day of health, wher in God for Chriſtes ſake hath promyſed to helpe the true beleuers. Therfore as Saynt Paule councelled the Corinthians: Euen ſo doo I councell you nowe, <hi>Ne quam vſquam demus offentionem ne reprehendatur ministeriu<g ref="char:cmbAbbrStroke">̄</g> ſed in omnibus co<g ref="char:cmbAbbrStroke">̄</g>mendemus nos ut Dei miniſtri.</hi> This wholſom and profytable councell dyd ſayncre Paule geue vnto the Corinthians, whervnto he wiſhed them to obey, that ther by they myght certify them ſelues, that they were partakers of this accepted tyme. The ſame councel do I alſo nowe geue vnto you, that ye may haue the lyke certificate. Wher<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:173936:32"/> ſo let euery man behaue hym in his de<g ref="char:EOLhyphen"/>gree and vocation, as Gods myniſter, that no faulte bee founde in his miniſtration: <hi>Omnes enim ſtatuemur ad tribunal Dei.</hi> Who is iuſte, &amp; may not away with thoſe whiche anſwere his inexpreſſible benignitie with fayre woordes and corrupt, yea wylfull wic<g ref="char:EOLhyphen"/>ked manners, not commendyng them ſelues as the miniſters of God, but of Belial. See<g ref="char:EOLhyphen"/>yng then that we muſt al come to iudgment before the throne of God, whiche wyll not wink neither fauour iniquitie, where and in whom ſoeuer it be found, bycauſe wyth hym there is no reſpect of perſons, let vs al take heed, y<hi rend="sup">•</hi> no fault be found in our miniſtratio<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            <p>Lefte the byſhoppes commende theym ſelues as the myniſters of God, that no fault be found in theyr miniſtration, whan this iudge ſhall appeare.</p>
+            <p>Let the iuſtices behaue theym ſelues as the miniſters of God, in the true and iuſte execution of the lawes, without all corrupte affections, defendyng the welldoer, and pu<g ref="char:EOLhyphen"/>niſhyng the yll, that no faulte bee founde in their miniſtrye.</p>
+            <p>Let the other officers be dylygente &amp; not ſlacke in their myniſtry, neyther wink whan they ought to ſe, that no faulte be founde in their miniſtration.</p>
+            <p>Ye huſbandes loue your wiues, and bee <note place="margin">1 Pet. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Colo. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <pb facs="tcp:173936:33"/> not bytter vnto them, but dwell wyth theim accordyng to knowledge, gyuinge honoure vnto them, as vnto the weaker veſſell, and coheare wyth you of grace, that your praiers be not letted.</p>
+            <p>Ye wemen be ye ſubiect to your own huſ<g ref="char:EOLhyphen"/>bandes <note place="margin">
+                  <hi>Ephe.</hi> 5. 6. 2 <hi>Pet.</hi> 3.</note> as to the Lord, and obey them euen as Sara obeyed Abraham, callynge hym Lord, whoſe daughters ye are, ſo long as yee doo well.</p>
+            <p>Ye fathers prouoke not your children vn<g ref="char:EOLunhyphen"/>to <note place="margin">
+                  <hi>Ephe.</hi> 6</note> wrath, but brynge theym vp in nourture and informacion of the Lord.</p>
+            <p>Ye children obey your parents in the lord, <note place="margin">
+                  <hi>Ephe.</hi> 6.</note> for that is good. Honour thy father and mo<g ref="char:EOLunhyphen"/>ther. that is the fyrſt commanndement that hath any promiſe, that it may bee well wyth the, and that thou maiſt liue long vpo<g ref="char:cmbAbbrStroke">̄</g> earth.</p>
+            <p>Ye ſeruantes obey your bodylye maiſters <note place="margin">
+                  <hi>Eph.</hi> 6. <hi>Colo.</hi> 3.</note> with feare and tremblyng, in the ſynglenes of your heart, as vnto Chriſte, not with eye ſeruyce as men pleaſers, but as the ſeruants of Chriſt, doing the wil of God hartely with a good will, ſeruyng the lorde and not men, knowyng that what good euery man doth, therof he ſhalbe rewarded of the lorde, whe<g ref="char:EOLhyphen"/>ther y<hi rend="sup">t</hi> he be bond or free. God work this in ſeruantes hearts in theſe our daies, for ſure<g ref="char:EOLunhyphen"/>ly they had neuer more need to be amended.</p>
+            <p>Ye maiſters do the ſame to them without <note place="margin">
+                  <hi>Eph.</hi> 6. <hi>Colo.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <pb facs="tcp:173936:33"/> crueltye, knowynge that your mayſter is in heauen, before whome there is no acception of perſons.</p>
+            <p>Therefore to conclude (bycauſe I purpoſe to eſchew redyouſnes) let euery man in that office wherevnto hee is called, behaue hym ſelfe as the myniſter of God, that in hys offyce no faulte bee founde. Than no doubt whan the houſholder commeth frome farre, to take accompte and to vewe the dooynges of hys ſeruantes, theſe whyche hee fyndeth faythfull as hys true myny<g ref="char:EOLhyphen"/>ſters, occupyed in the dylygente execution of their miniſtration, hee wyll boun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>fullye rewarde for hys promyſe ſake.</p>
+            <p>And they ſhall hear thys comfortable word, <hi>Euge ſerue bone:</hi> where as they whyche deale vntruely in their mynyſtration, ſmyte their fellowes, waſte theyr mayſters good in voluptuouſnes, ſhall bee not onlye rebu<g ref="char:EOLhyphen"/>ked wyth theſe ſharpe woordes, <hi>ſerue ne<g ref="char:EOLhyphen"/>quam,</hi> but alſo heauylye rewarded with vt<g ref="char:EOLhyphen"/>ter darkeneſſe, where ſhall bee weepynge and gnaſſhyng of teethe. God make vs of the noumbre of the faithfull ſeruauntes. Amen.</p>
+            <p>Now haue you heard deerly beloued chry<g ref="char:EOLhyphen"/>ſtians the exhortacion or ſupplication of S. Paul made vnto the Corinthia<g ref="char:cmbAbbrStroke">̄</g>s, Whereby
+<pb facs="tcp:173936:34"/> as he willed them, ſo hath he done vs, not to receyue the grace of God in vayne. Alſo ye haue hearde howe the dyuell laboured to make them vnthankefull receyuers thereof: and howe at this day he ſeeketh vs to be the ſame: And that by two wayes pryncipally, eyther by corruptynge good lyuers with yll ſpeakyng, I mean doctrine, or els good ſpea<g ref="char:EOLunhyphen"/>kers with yll lyuynge. I haue ſhewed you what floures he ſtraweth afore me<g ref="char:cmbAbbrStroke">̄</g> to bryng this his polycie to paſſe. Then I declared howe the holy men in tyme paſt thankefully receyued the grace of God, and refuſed the deluſions of the dyuell. Wherefore God of his great mercy hearde them in an accepted tyme, and ſuccoured them. In concluſyon: I told you, that nowe is that accepted tyme and day of ſaluation. wherin I exhorted you to walke as gods mynyſters (that is fayth<g ref="char:EOLhyphen"/>fully and godly) in your miniſtrations, that you whiche faythfully beleue, maye (at the appearyng of our Lorde Ieſus) receyue the reward, namely the croune of eternall lyfe. What now remayneth, but to deſyre you in the name of our Lorde Ieſus, that ye wyll (all ſciſme, diſcord and variance laid apart) growe to the vnitie of the ſpirite of Chriſte, that ye maye be lyke mynded in the truthe: Knowyng that nothyng is more acceptable in the ſight of almighty god in Ieſu Chriſt,
+<pb facs="tcp:173936:34"/> then the vnitie of bretherne. Herevnto the whole ſcriptures doo leade vs: this they doo teache vs: and this they wyll vs to folowe: and that bycauſe God is the God of peace, and not of diſcord. He delyteth to ſee vnitie, dwell among chriſtian men (whiche by liue<g ref="char:EOLhyphen"/>ly fayth ar graffed as membres into his pre<g ref="char:EOLunhyphen"/>cious bodye, and are his membres in deede) and not diuiſion, Chriſte oure heade is the peace offrynge, the attonement maker, and the God of Reconciliation. The membres beyng knyt to the head, What ought they to expreſſe? A contrarietie to the head? No, that were a wonderfull diſorder. They muſt therfore expreſſe the qualitie of the head, by whom they bee gouerned. He is peace, wee muſt be peaſable: he made attonement, wer muſte bee attone: he is the Reconciliation, we muſt be reconciled. He beyng the head, is knyt to his membres. al true chriſtia<g ref="char:cmbAbbrStroke">̄</g>s be his membres, by his free ſure holy and mer<g ref="char:EOLhyphen"/>cyfull promyſe of oure partes vndeſerued. The membres are knyt to hym with a lyue<g ref="char:EOLhyphen"/>ly fayth, mightily working by loue, through whoſe operation, as S. Paule proueth, wee ar membres one of an other. The head agre<g ref="char:EOLhyphen"/>eth <note place="margin">
+                  <hi>Ephe.</hi> 4</note> with the body, to teach the membres to agree togyther. The head is not diuided fro<g ref="char:cmbAbbrStroke">̄</g> the body, no more muſt the membres therof be diuided. Wherfore to draw vs to the con<g ref="char:EOLunhyphen"/>formitie
+<pb facs="tcp:173936:35"/> of his membres, and to alien ar from vs the ennemy of vnitie, he gaue vs a notable leſſon by ſaynet Paule, ſaiyng: Let there be but one Lorde, one faythe, one bap<g ref="char:EOLhyphen"/>tiſme, one god and father of all, whyche is aboue all, through all, and in you all.</p>
+            <p>This is the rule of right chriſtianite, wher<g ref="char:EOLhyphen"/>vnto we all thorough fayth muſt apply our<g ref="char:EOLhyphen"/>ſelues, and wherby we muſt be framed, yf we purpoſe to haue an euen and ſtraighte buyl<g ref="char:EOLhyphen"/>dyng in the Lorde to eternall lyfe. From the whiche rule who ſo wylfully ſwarueth, and returneth not agayn by repentance, he hur<g ref="char:EOLhyphen"/>teth hym ſelfe incurably, and ſhal be caſt out of the vyne, as a withered branche forſaken of the vine, ſo drye that the ſwete moyſture of the wyne wyll not enter. God drynge vs therefore to vnitie ſo muche commended in ſcripture, that we may as membres ruled by the vertu of the head, agree lyke membres, in the body of Chriſt, that we may all heare his ioyefulle voyce in the ende, ſayinge: <hi>Venite benedicti patris mei in regnum praepara<g ref="char:EOLhyphen"/>tum pro uobis ab initio.</hi> to the whyche God bryng vs for Chriſtes ſake. To whom with the father and the holy ghoſte be all prayſe, honoure, power and dominion, nowe and for euer. Amen. God be prayſed.</p>
+            <p>God ſaue the kyng, and his honourable councell, and ſend vs peace in Chriſte Ieſu.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:173936:35"/>
+            <figure>
+               <p>NVM. XXI.</p>
+            </figure>
+            <p>Imprinted at London by Reginalde Wolfe.</p>
+            <p>Cum priuilegio ad imprimendum ſolum.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
